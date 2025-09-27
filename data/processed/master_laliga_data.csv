@@ -1,0 +1,1141 @@
+Wk,Day,Date,Time,Home,xG,xG.1,Away,Attendance,Venue,Referee,HomeGoals,AwayGoals,Result
+1.0,Fri,2022-08-12,21:00,Osasuna,1.5,0.9,Sevilla,18536.0,Estadio El Sadar,Carlos del Cerro,2,1,H
+1.0,Sat,2022-08-13,17:00,Celta Vigo,0.4,1.1,Espanyol,13859.0,Estadio de Balaídos,Miguel Ángel Ortiz Arias,2,2,D
+1.0,Sat,2022-08-13,19:00,Valladolid,1.0,1.5,Villarreal,17543.0,Estadio Municipal José Zorrilla,Mario Melero,0,3,A
+1.0,Sat,2022-08-13,21:00,Barcelona,1.9,0.5,Rayo Vallecano,81104.0,Camp Nou,Alejandro Hernández,0,0,D
+1.0,Sun,2022-08-14,17:30,Cádiz,0.2,1.7,Real Sociedad,16570.0,Estadio Nuevo Mirandilla,Isidro Díaz de Mera,0,1,A
+1.0,Sun,2022-08-14,19:30,Valencia,1.6,0.1,Girona,39359.0,Estadio de Mestalla,Jorge Figueroa,1,0,H
+1.0,Sun,2022-08-14,22:00,Almería,0.7,2.1,Real Madrid,14386.0,Power Horse Stadium,Juan Martínez,1,2,A
+1.0,Mon,2022-08-15,17:30,Athletic Club,1.6,0.4,Mallorca,39747.0,San Mamés,Javier Villanueva,0,0,D
+1.0,Mon,2022-08-15,19:30,Getafe,0.7,1.2,Atlético Madrid,12235.0,Coliseum Alfonso Pérez,José Sánchez,0,3,A
+1.0,Mon,2022-08-15,21:30,Betis,3.1,0.4,Elche,50622.0,Estadio Benito Villamarín,Guillermo Cuadra,3,0,H
+2.0,Fri,2022-08-19,20:00,Espanyol,0.8,1.4,Rayo Vallecano,16071.0,RCDE Stadium,Jorge Figueroa,0,2,A
+2.0,Fri,2022-08-19,22:00,Sevilla,2.0,0.5,Valladolid,33991.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido,1,1,D
+2.0,Sat,2022-08-20,17:30,Osasuna,2.7,1.0,Cádiz,18587.0,Estadio El Sadar,Antonio Matéu Lahoz,2,0,H
+2.0,Sat,2022-08-20,19:30,Mallorca,0.6,2.1,Betis,15579.0,Iberostar Estadi,Pablo González,1,2,A
+2.0,Sat,2022-08-20,22:00,Celta Vigo,1.4,3.7,Real Madrid,15681.0,Estadio de Balaídos,Jesús Gil,1,4,A
+2.0,Sun,2022-08-21,17:30,Athletic Club,1.0,0.7,Valencia,43333.0,San Mamés,César Soto,1,0,H
+2.0,Sun,2022-08-21,19:30,Atlético Madrid,1.6,1.8,Villarreal,57033.0,Estadio Cívitas Metropolitano,Ricardo de Burgos,0,2,A
+2.0,Sun,2022-08-21,22:00,Real Sociedad,0.8,2.1,Barcelona,36201.0,Reale Arena,José Luis Munuera,1,4,A
+2.0,Mon,2022-08-22,20:00,Elche,1.0,0.7,Almería,23361.0,Estadio Manuel Martínez Valero,Isidro Díaz de Mera,1,1,D
+2.0,Mon,2022-08-22,22:00,Girona,1.1,0.6,Getafe,10460.0,Estadi Municipal de Montilivi,Alejandro Muñíz,3,1,H
+3.0,Fri,2022-08-26,20:00,Girona,1.0,1.0,Celta Vigo,11329.0,Estadi Municipal de Montilivi,Carlos del Cerro,0,1,A
+3.0,Fri,2022-08-26,22:00,Betis,0.5,1.3,Osasuna,52580.0,Estadio Benito Villamarín,Juan Martínez,1,0,H
+3.0,Sat,2022-08-27,17:30,Elche,0.7,1.8,Real Sociedad,22656.0,Estadio Manuel Martínez Valero,Javier Villanueva,0,1,A
+3.0,Sat,2022-08-27,19:30,Rayo Vallecano,0.7,0.8,Mallorca,10944.0,Estadio del Rayo Vallecano,José Sánchez,0,2,A
+3.0,Sat,2022-08-27,22:00,Almería,2.3,1.0,Sevilla,13788.0,Power Horse Stadium,Jesús Gil,2,1,H
+3.0,Sun,2022-08-28,17:30,Getafe,0.3,1.1,Villarreal,9815.0,Coliseum Alfonso Pérez,Jorge Figueroa,0,0,D
+3.0,Sun,2022-08-28,19:30,Barcelona,2.6,0.8,Valladolid,83972.0,Camp Nou,Ricardo de Burgos,4,0,H
+3.0,Sun,2022-08-28,22:00,Espanyol,1.3,2.1,Real Madrid,25778.0,RCDE Stadium,Mario Melero,1,3,A
+3.0,Mon,2022-08-29,20:00,Cádiz,0.4,2.4,Athletic Club,17029.0,Estadio Nuevo Mirandilla,Miguel Ángel Ortiz Arias,0,4,A
+3.0,Mon,2022-08-29,22:00,Valencia,0.5,1.5,Atlético Madrid,43910.0,Estadio de Mestalla,Guillermo Cuadra,0,1,A
+4.0,Fri,2022-09-02,21:00,Celta Vigo,0.7,0.3,Cádiz,14510.0,Estadio de Balaídos,Juan Pulido,3,0,H
+4.0,Sat,2022-09-03,14:00,Mallorca,0.7,1.2,Girona,13390.0,Iberostar Estadi,Isidro Díaz de Mera,1,1,D
+4.0,Sat,2022-09-03,16:15,Real Madrid,2.9,0.5,Betis,58579.0,Estadio Santiago Bernabéu,José Sánchez,2,1,H
+4.0,Sat,2022-09-03,18:30,Real Sociedad,1.4,1.1,Atlético Madrid,35366.0,Reale Arena,César Soto,1,1,D
+4.0,Sat,2022-09-03,21:00,Sevilla,1.0,4.0,Barcelona,40233.0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz,0,3,A
+4.0,Sun,2022-09-04,14:00,Osasuna,2.4,0.2,Rayo Vallecano,18745.0,Estadio El Sadar,Alejandro Muñíz,2,1,H
+4.0,Sun,2022-09-04,16:15,Athletic Club,1.2,0.6,Espanyol,41574.0,San Mamés,Juan Martínez,0,1,A
+4.0,Sun,2022-09-04,18:30,Villarreal,3.4,0.6,Elche,13915.0,Estadio Ciudad de Valencia,Miguel Ángel Ortiz Arias,4,0,H
+4.0,Sun,2022-09-04,21:00,Valencia,2.3,0.2,Getafe,38725.0,Estadio de Mestalla,José Luis Munuera,5,1,H
+4.0,Mon,2022-09-05,21:00,Valladolid,1.2,0.5,Almería,20260.0,Estadio Municipal José Zorrilla,Pablo González,1,0,H
+5.0,Fri,2022-09-09,21:00,Girona,1.9,0.5,Valladolid,10053.0,Estadi Municipal de Montilivi,César Soto,2,1,H
+5.0,Sat,2022-09-10,14:00,Rayo Vallecano,1.7,1.7,Valencia,12085.0,Estadio del Rayo Vallecano,Jesús Gil,2,1,H
+5.0,Sat,2022-09-10,16:15,Espanyol,2.5,2.0,Sevilla,20135.0,RCDE Stadium,Guillermo Cuadra,2,3,A
+5.0,Sat,2022-09-10,18:30,Cádiz,0.4,3.4,Barcelona,19530.0,Estadio Nuevo Mirandilla,Carlos del Cerro,0,4,A
+5.0,Sat,2022-09-10,21:00,Atlético Madrid,0.7,1.7,Celta Vigo,52247.0,Estadio Cívitas Metropolitano,Alejandro Hernández,4,1,H
+5.0,Sun,2022-09-11,14:00,Real Madrid,2.3,0.5,Mallorca,54816.0,Estadio Santiago Bernabéu,Jorge Figueroa,4,1,H
+5.0,Sun,2022-09-11,16:15,Elche,0.9,2.7,Athletic Club,24176.0,Estadio Manuel Martínez Valero,Mario Melero,1,4,A
+5.0,Sun,2022-09-11,18:30,Getafe,1.1,1.2,Real Sociedad,11112.0,Coliseum Alfonso Pérez,Juan Pulido,2,1,H
+5.0,Sun,2022-09-11,21:00,Betis,1.4,1.7,Villarreal,53276.0,Estadio Benito Villamarín,Ricardo de Burgos,1,0,H
+5.0,Mon,2022-09-12,21:00,Almería,0.2,2.0,Osasuna,12397.0,Power Horse Stadium,Javier Villanueva,0,1,A
+6.0,Fri,2022-09-16,21:00,Valladolid,1.5,0.3,Cádiz,20295.0,Estadio Municipal José Zorrilla,José Sánchez,0,1,A
+6.0,Sat,2022-09-17,14:00,Mallorca,0.6,0.4,Almería,12687.0,Iberostar Estadi,Juan Martínez,1,0,H
+6.0,Sat,2022-09-17,16:15,Barcelona,3.9,0.0,Elche,85073.0,Camp Nou,Alejandro Muñíz,3,0,H
+6.0,Sat,2022-09-17,18:30,Valencia,1.7,0.5,Celta Vigo,40965.0,Estadio de Mestalla,Pablo González,3,0,H
+6.0,Sat,2022-09-17,21:00,Athletic Club,1.9,0.7,Rayo Vallecano,43484.0,San Mamés,Antonio Matéu Lahoz,3,2,H
+6.0,Sun,2022-09-18,14:00,Osasuna,0.5,0.8,Getafe,18255.0,Estadio El Sadar,Isidro Díaz de Mera,0,2,A
+6.0,Sun,2022-09-18,16:15,Villarreal,1.5,0.6,Sevilla,18292.0,Estadio Ciudad de Valencia,Alejandro Hernández,1,1,D
+6.0,Sun,2022-09-18,18:30,Real Sociedad,1.9,0.8,Espanyol,31511.0,Reale Arena,Carlos del Cerro,2,1,H
+6.0,Sun,2022-09-18,18:30,Betis,1.6,1.3,Girona,52229.0,Estadio Benito Villamarín,Miguel Ángel Ortiz Arias,2,1,H
+6.0,Sun,2022-09-18,21:00,Atlético Madrid,1.0,0.9,Real Madrid,66881.0,Estadio Cívitas Metropolitano,José Luis Munuera,1,2,A
+7.0,Fri,2022-09-30,21:00,Athletic Club,2.1,0.7,Almería,42110.0,San Mamés,Juan Pulido,4,0,H
+7.0,Sat,2022-10-01,14:00,Cádiz,0.7,1.6,Villarreal,15516.0,Estadio Nuevo Mirandilla,Javier Villanueva,0,0,D
+7.0,Sat,2022-10-01,16:15,Getafe,2.8,1.6,Valladolid,10958.0,Coliseum Alfonso Pérez,Alejandro Muñíz,2,3,A
+7.0,Sat,2022-10-01,18:30,Sevilla,0.5,2.2,Atlético Madrid,37754.0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos,0,2,A
+7.0,Sat,2022-10-01,21:00,Mallorca,1.2,0.7,Barcelona,18103.0,Iberostar Estadi,Jesús Gil,0,1,A
+7.0,Sun,2022-10-02,14:00,Espanyol,0.8,1.1,Valencia,19766.0,RCDE Stadium,Valentín Pizarro,2,2,D
+7.0,Sun,2022-10-02,16:15,Celta Vigo,0.9,0.9,Betis,14344.0,Estadio de Balaídos,César Soto,1,0,H
+7.0,Sun,2022-10-02,18:30,Girona,1.0,2.1,Real Sociedad,12217.0,Estadi Municipal de Montilivi,Mario Melero,3,5,A
+7.0,Sun,2022-10-02,21:00,Real Madrid,2.5,0.5,Osasuna,55410.0,Estadio Santiago Bernabéu,Guillermo Cuadra,1,1,D
+7.0,Mon,2022-10-03,21:00,Rayo Vallecano,0.9,1.1,Elche,11662.0,Estadio del Rayo Vallecano,Jorge Figueroa,2,1,H
+8.0,Fri,2022-10-07,21:00,Osasuna,1.6,2.1,Valencia,20260.0,Estadio El Sadar,Miguel Ángel Ortiz Arias,1,2,A
+8.0,Sat,2022-10-08,14:00,Almería,1.2,0.8,Rayo Vallecano,10783.0,Power Horse Stadium,Pablo González,3,1,H
+8.0,Sat,2022-10-08,16:15,Atlético Madrid,1.9,0.8,Girona,54069.0,Estadio Cívitas Metropolitano,Juan Martínez,2,1,H
+8.0,Sat,2022-10-08,18:30,Sevilla,1.0,1.7,Athletic Club,36502.0,Estadio Ramón Sánchez Pizjuán,Jesús Gil,1,1,D
+8.0,Sat,2022-10-08,21:00,Getafe,0.3,1.4,Real Madrid,14502.0,Coliseum Alfonso Pérez,Antonio Matéu Lahoz,0,1,A
+8.0,Sun,2022-10-09,14:00,Valladolid,0.6,0.5,Betis,22561.0,Estadio Municipal José Zorrilla,Carlos del Cerro,0,0,D
+8.0,Sun,2022-10-09,16:15,Cádiz,1.3,1.3,Espanyol,16572.0,Estadio Nuevo Mirandilla,Alejandro Hernández,2,2,D
+8.0,Sun,2022-10-09,18:30,Real Sociedad,1.2,0.2,Villarreal,32689.0,Reale Arena,César Soto,1,0,H
+8.0,Sun,2022-10-09,21:00,Barcelona,2.0,1.5,Celta Vigo,81525.0,Camp Nou,José Luis Munuera,1,0,H
+8.0,Mon,2022-10-10,21:00,Elche,0.5,2.3,Mallorca,12000.0,Estadio Manuel Martínez Valero,Valentín Pizarro,1,1,D
+9.0,Fri,2022-10-14,21:00,Rayo Vallecano,1.6,0.4,Getafe,13076.0,Estadio del Rayo Vallecano,Mario Melero,0,0,D
+9.0,Sat,2022-10-15,14:00,Girona,2.3,1.1,Cádiz,9927.0,Estadi Municipal de Montilivi,Ricardo de Burgos,1,1,D
+9.0,Sat,2022-10-15,16:15,Valencia,2.7,1.7,Elche,41805.0,Estadio de Mestalla,Juan Pulido,2,2,D
+9.0,Sat,2022-10-15,18:30,Mallorca,0.7,0.2,Sevilla,15300.0,Iberostar Estadi,Javier Villanueva,0,1,A
+9.0,Sat,2022-10-15,21:00,Athletic Club,1.2,0.3,Atlético Madrid,48391.0,San Mamés,Jorge Figueroa,0,1,A
+9.0,Sun,2022-10-16,14:00,Celta Vigo,0.5,0.8,Real Sociedad,13101.0,Estadio de Balaídos,Guillermo Cuadra,1,2,A
+9.0,Sun,2022-10-16,16:15,Real Madrid,1.1,2.0,Barcelona,62876.0,Estadio Santiago Bernabéu,José Sánchez,3,1,H
+9.0,Sun,2022-10-16,18:30,Espanyol,1.3,0.7,Valladolid,17770.0,RCDE Stadium,Antonio Matéu Lahoz,1,0,H
+9.0,Sun,2022-10-16,21:00,Betis,2.5,0.8,Almería,46112.0,Estadio Benito Villamarín,Alejandro Muñíz,3,1,H
+9.0,Mon,2022-10-17,21:00,Villarreal,1.5,0.5,Osasuna,9699.0,Estadio Ciudad de Valencia,Pablo González,2,0,H
+10.0,Tue,2022-10-18,19:00,Sevilla,1.1,1.8,Valencia,37353.0,Estadio Ramón Sánchez Pizjuán,César Soto,1,1,D
+10.0,Tue,2022-10-18,20:00,Getafe,0.8,1.0,Athletic Club,11395.0,Coliseum Alfonso Pérez,José Luis Munuera,2,2,D
+10.0,Tue,2022-10-18,21:00,Atlético Madrid,1.1,1.8,Rayo Vallecano,46803.0,Estadio Cívitas Metropolitano,Javier Villanueva,1,1,D
+10.0,Wed,2022-10-19,19:00,Cádiz,0.9,0.9,Betis,18505.0,Estadio Nuevo Mirandilla,Antonio Matéu Lahoz,0,0,D
+10.0,Wed,2022-10-19,19:00,Valladolid,1.5,2.6,Celta Vigo,16547.0,Estadio Municipal José Zorrilla,Valentín Pizarro,4,1,H
+10.0,Wed,2022-10-19,20:00,Real Sociedad,1.2,0.9,Mallorca,27085.0,Reale Arena,Miguel Ángel Ortiz Arias,1,0,H
+10.0,Wed,2022-10-19,21:00,Elche,0.8,1.5,Real Madrid,30236.0,Estadio Manuel Martínez Valero,Jesús Gil,0,3,A
+10.0,Thu,2022-10-20,19:00,Almería,1.8,2.8,Girona,11194.0,Power Horse Stadium,Guillermo Cuadra,3,2,H
+10.0,Thu,2022-10-20,20:00,Osasuna,1.0,1.0,Espanyol,17832.0,Estadio El Sadar,Mario Melero,1,0,H
+10.0,Thu,2022-10-20,21:00,Barcelona,2.1,0.4,Villarreal,73261.0,Camp Nou,Carlos del Cerro,3,0,H
+11.0,Sat,2022-10-22,14:00,Rayo Vallecano,3.7,0.2,Cádiz,12975.0,Estadio del Rayo Vallecano,Alejandro Muñíz,5,1,H
+11.0,Sat,2022-10-22,16:15,Valladolid,0.8,0.9,Real Sociedad,21175.0,Estadio Municipal José Zorrilla,Jorge Figueroa,1,0,H
+11.0,Sat,2022-10-22,18:30,Valencia,1.2,1.5,Mallorca,41199.0,Estadio de Mestalla,José Sánchez,1,2,A
+11.0,Sat,2022-10-22,21:00,Real Madrid,3.0,0.5,Sevilla,59625.0,Estadio Santiago Bernabéu,Alejandro Hernández,3,1,H
+11.0,Sun,2022-10-23,14:00,Espanyol,2.2,0.5,Elche,17560.0,RCDE Stadium,José Luis Munuera,2,2,D
+11.0,Sun,2022-10-23,16:15,Betis,1.4,0.8,Atlético Madrid,50179.0,Estadio Benito Villamarín,Jesús Gil,1,2,A
+11.0,Sun,2022-10-23,18:30,Girona,0.4,0.6,Osasuna,10032.0,Estadi Municipal de Montilivi,Juan Pulido,1,1,D
+11.0,Sun,2022-10-23,18:30,Villarreal,1.0,1.0,Almería,13816.0,Estadio Ciudad de Valencia,Ricardo de Burgos,2,1,H
+11.0,Sun,2022-10-23,21:00,Barcelona,1.4,0.5,Athletic Club,84817.0,Camp Nou,Juan Martínez,4,0,H
+11.0,Mon,2022-10-24,21:00,Celta Vigo,0.7,0.2,Getafe,9774.0,Estadio de Balaídos,Pablo González,1,1,D
+12.0,Fri,2022-10-28,21:00,Mallorca,1.4,0.3,Espanyol,13982.0,Iberostar Estadi,Isidro Díaz de Mera,1,1,D
+12.0,Sat,2022-10-29,14:00,Almería,2.3,0.3,Celta Vigo,11080.0,Power Horse Stadium,Carlos del Cerro,3,1,H
+12.0,Sat,2022-10-29,16:15,Cádiz,1.1,1.3,Atlético Madrid,18183.0,Estadio Nuevo Mirandilla,José Sánchez,3,2,H
+12.0,Sat,2022-10-29,18:30,Sevilla,1.2,0.7,Rayo Vallecano,36601.0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz,0,1,A
+12.0,Sat,2022-10-29,21:00,Valencia,0.2,1.6,Barcelona,46007.0,Estadio de Mestalla,Ricardo de Burgos,0,1,A
+12.0,Sun,2022-10-30,14:00,Osasuna,2.5,0.5,Valladolid,19429.0,Estadio El Sadar,Guillermo Cuadra,2,0,H
+12.0,Sun,2022-10-30,16:15,Real Madrid,2.9,1.4,Girona,58367.0,Estadio Santiago Bernabéu,Mario Melero,1,1,D
+12.0,Sun,2022-10-30,18:30,Athletic Club,1.7,0.3,Villarreal,46081.0,San Mamés,Miguel Ángel Ortiz Arias,1,0,H
+12.0,Sun,2022-10-30,21:00,Real Sociedad,0.9,1.3,Betis,32435.0,Reale Arena,Javier Villanueva,0,2,A
+12.0,Mon,2022-10-31,21:00,Elche,1.3,0.4,Getafe,19588.0,Estadio Manuel Martínez Valero,César Soto,0,1,A
+13.0,Fri,2022-11-04,21:00,Girona,1.0,0.7,Athletic Club,11420.0,Estadi Municipal de Montilivi,Valentín Pizarro,2,1,H
+13.0,Sat,2022-11-05,14:00,Getafe,0.6,1.4,Cádiz,10554.0,Coliseum Alfonso Pérez,Alejandro Hernández,0,0,D
+13.0,Sat,2022-11-05,16:15,Valladolid,1.9,0.2,Elche,20176.0,Estadio Municipal José Zorrilla,Ricardo de Burgos,2,1,H
+13.0,Sat,2022-11-05,18:30,Celta Vigo,0.7,0.4,Osasuna,14209.0,Estadio de Balaídos,Jorge Figueroa,1,2,A
+13.0,Sat,2022-11-05,21:00,Barcelona,4.0,0.5,Almería,92605.0,Camp Nou,Pablo González,2,0,H
+13.0,Sun,2022-11-06,14:00,Atlético Madrid,1.9,0.7,Espanyol,50007.0,Estadio Cívitas Metropolitano,Juan Pulido,1,1,D
+13.0,Sun,2022-11-06,16:15,Real Sociedad,1.1,0.9,Valencia,32773.0,Reale Arena,José Luis Munuera,1,1,D
+13.0,Sun,2022-11-06,18:30,Villarreal,0.5,0.4,Mallorca,16603.0,Estadio Ciudad de Valencia,Alejandro Muñíz,0,2,A
+13.0,Sun,2022-11-06,21:00,Betis,1.0,1.5,Sevilla,54034.0,Estadio Benito Villamarín,José Sánchez,1,1,D
+13.0,Mon,2022-11-07,21:00,Rayo Vallecano,1.5,2.4,Real Madrid,14216.0,Estadio del Rayo Vallecano,Juan Martínez,3,2,H
+14.0,Tue,2022-11-08,19:00,Elche,0.6,2.3,Girona,17339.0,Estadio Manuel Martínez Valero,Pablo González,1,2,A
+14.0,Tue,2022-11-08,20:00,Athletic Club,2.1,0.5,Valladolid,40072.0,San Mamés,Isidro Díaz de Mera,3,0,H
+14.0,Tue,2022-11-08,21:30,Osasuna,1.0,0.8,Barcelona,21603.0,Estadio El Sadar,Jesús Gil,1,2,A
+14.0,Wed,2022-11-09,19:00,Almería,0.5,0.4,Getafe,11454.0,Power Horse Stadium,Alejandro Muñíz,1,0,H
+14.0,Wed,2022-11-09,19:00,Sevilla,0.6,1.7,Real Sociedad,34814.0,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro,1,2,A
+14.0,Wed,2022-11-09,20:00,Espanyol,1.1,0.7,Villarreal,17400.0,RCDE Stadium,Javier Villanueva,0,1,A
+14.0,Wed,2022-11-09,21:30,Mallorca,1.3,1.3,Atlético Madrid,14475.0,Iberostar Estadi,Mario Melero,1,0,H
+14.0,Thu,2022-11-10,19:00,Rayo Vallecano,0.4,0.9,Celta Vigo,12419.0,Estadio del Rayo Vallecano,José Luis Munuera,0,0,D
+14.0,Thu,2022-11-10,20:00,Valencia,2.0,0.2,Betis,39876.0,Estadio de Mestalla,Miguel Ángel Ortiz Arias,3,0,H
+14.0,Thu,2022-11-10,21:30,Real Madrid,2.0,0.9,Cádiz,53190.0,Estadio Santiago Bernabéu,César Soto,2,1,H
+15.0,Thu,2022-12-29,17:00,Girona,2.3,1.0,Rayo Vallecano,11451.0,Estadi Municipal de Montilivi,Jorge Figueroa,2,2,D
+15.0,Thu,2022-12-29,19:15,Betis,0.5,0.4,Athletic Club,53565.0,Estadio Benito Villamarín,Alejandro Hernández,0,0,D
+15.0,Thu,2022-12-29,21:30,Atlético Madrid,1.7,0.4,Elche,48119.0,Estadio Cívitas Metropolitano,Guillermo Cuadra,2,0,H
+15.0,Fri,2022-12-30,17:00,Getafe,1.2,0.6,Mallorca,9755.0,Coliseum Alfonso Pérez,Hsu Jason,2,0,H
+15.0,Fri,2022-12-30,19:15,Cádiz,1.3,2.3,Almería,17345.0,Estadio Nuevo Mirandilla,Juan Martínez,1,1,D
+15.0,Fri,2022-12-30,19:15,Celta Vigo,2.0,0.7,Sevilla,13653.0,Estadio de Balaídos,Ricardo de Burgos,1,1,D
+15.0,Fri,2022-12-30,21:30,Valladolid,0.6,2.3,Real Madrid,25950.0,Estadio Municipal José Zorrilla,José Luis Munuera,0,2,A
+15.0,Sat,2022-12-31,14:00,Barcelona,2.2,0.9,Espanyol,88095.0,Camp Nou,Antonio Matéu,1,1,D
+15.0,Sat,2022-12-31,16:15,Villarreal,2.5,1.4,Valencia,19247.0,Estadio Ciudad de Valencia,José Sánchez,2,1,H
+15.0,Sat,2022-12-31,16:15,Real Sociedad,1.4,0.4,Osasuna,34847.0,Reale Arena,Valentín Pizarro,2,0,H
+16.0,Fri,2023-01-06,18:30,Elche,1.0,2.0,Celta Vigo,20121.0,Estadio Manuel Martínez Valero,Miguel Ángel Ortiz Arias,0,1,A
+16.0,Fri,2023-01-06,21:00,Valencia,0.4,0.4,Cádiz,39003.0,Estadio de Mestalla,Pablo González,0,1,A
+16.0,Sat,2023-01-07,16:15,Villarreal,3.0,2.2,Real Madrid,21088.0,Estadio de la Cerámica,César Soto,2,1,H
+16.0,Sat,2023-01-07,18:30,Mallorca,1.2,0.6,Valladolid,14129.0,Iberostar Estadi,Valentín Pizarro,1,0,H
+16.0,Sat,2023-01-07,21:00,Espanyol,1.5,1.2,Girona,21429.0,RCDE Stadium,Carlos del Cerro,2,2,D
+16.0,Sun,2023-01-08,14:00,Almería,0.6,1.7,Real Sociedad,12020.0,Power Horse Stadium,Hsu Jason,0,2,A
+16.0,Sun,2023-01-08,16:15,Rayo Vallecano,1.6,0.9,Betis,13119.0,Estadio del Rayo Vallecano,Isidro Díaz de Mera,1,2,A
+16.0,Sun,2023-01-08,18:30,Sevilla,1.2,0.7,Getafe,35389.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,2,1,H
+16.0,Sun,2023-01-08,21:00,Atlético Madrid,1.7,0.7,Barcelona,63493.0,Estadio Cívitas Metropolitano,José Luis Munuera,0,1,A
+16.0,Mon,2023-01-09,21:00,Athletic Club,1.0,0.4,Osasuna,39216.0,San Mamés,Mario Melero,0,0,D
+17.0,Fri,2023-01-13,21:00,Celta Vigo,2.1,0.1,Villarreal,13931.0,Estadio de Balaídos,Hsu Jason,1,1,D
+17.0,Sat,2023-01-14,14:00,Valladolid,0.6,1.1,Rayo Vallecano,19969.0,Estadio Municipal José Zorrilla,Mario Melero,0,1,A
+17.0,Sat,2023-01-14,16:15,Girona,2.2,1.1,Sevilla,12035.0,Estadi Municipal de Montilivi,Valentín Pizarro,2,1,H
+17.0,Sat,2023-01-14,18:30,Osasuna,1.6,0.5,Mallorca,19887.0,Estadio El Sadar,César Soto,1,0,H
+17.0,Sat,2023-01-14,21:00,Real Sociedad,2.0,0.3,Athletic Club,38296.0,Reale Arena,Guillermo Cuadra,3,1,H
+17.0,Sun,2023-01-15,14:00,Getafe,0.5,0.8,Espanyol,10286.0,Coliseum Alfonso Pérez,Jorge Figueroa,1,2,A
+17.0,Sun,2023-01-15,16:15,Almería,1.4,2.4,Atlético Madrid,14128.0,Power Horse Stadium,José Sánchez,1,1,D
+17.0,Mon,2023-01-16,21:00,Cádiz,1.6,0.6,Elche,17389.0,Estadio Nuevo Mirandilla,Carlos del Cerro,1,1,D
+18.0,Fri,2023-01-20,21:00,Mallorca,0.5,0.5,Celta Vigo,12253.0,Iberostar Estadi,Juan Pulido,1,0,H
+18.0,Sat,2023-01-21,14:00,Rayo Vallecano,0.9,1.6,Real Sociedad,12874.0,Estadio del Rayo Vallecano,Antonio Matéu,0,2,A
+18.0,Sat,2023-01-21,16:15,Espanyol,2.3,0.9,Betis,20811.0,RCDE Stadium,Pablo González,1,0,H
+18.0,Sat,2023-01-21,18:30,Atlético Madrid,3.3,0.5,Valladolid,53253.0,Estadio Cívitas Metropolitano,Ricardo de Burgos,3,0,H
+18.0,Sat,2023-01-21,21:00,Sevilla,1.7,0.1,Cádiz,37400.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,1,0,H
+18.0,Sun,2023-01-22,14:00,Villarreal,2.5,0.6,Girona,15129.0,Estadio de la Cerámica,Carlos del Cerro,1,0,H
+18.0,Sun,2023-01-22,16:15,Elche,1.2,0.5,Osasuna,17589.0,Estadio Manuel Martínez Valero,Alejandro Muñíz,1,1,D
+18.0,Sun,2023-01-22,18:30,Barcelona,0.7,1.1,Getafe,79814.0,Camp Nou,Javier Villanueva,1,0,H
+18.0,Sun,2023-01-22,21:00,Athletic Club,1.1,1.1,Real Madrid,49316.0,San Mamés,José Sánchez,0,2,A
+18.0,Mon,2023-01-23,21:00,Valencia,1.9,1.4,Almería,33442.0,Estadio de Mestalla,Jesús Gil,2,2,D
+19.0,Fri,2023-01-27,21:00,Almería,2.1,0.8,Espanyol,11629.0,Power Horse Stadium,Javier Villanueva,3,1,H
+19.0,Sat,2023-01-28,14:00,Cádiz,1.9,0.4,Mallorca,16117.0,Estadio Nuevo Mirandilla,Ricardo de Burgos,2,0,H
+19.0,Sat,2023-01-28,16:15,Girona,1.1,1.1,Barcelona,13402.0,Estadi Municipal de Montilivi,Alejandro Muñíz,0,1,A
+19.0,Sat,2023-01-28,18:30,Sevilla,3.2,0.4,Elche,35567.0,Estadio Ramón Sánchez Pizjuán,César Soto,3,0,H
+19.0,Sat,2023-01-28,21:00,Getafe,0.3,1.7,Betis,11851.0,Coliseum Alfonso Pérez,Guillermo Cuadra,0,1,A
+19.0,Sun,2023-01-29,14:00,Valladolid,1.5,1.2,Valencia,19675.0,Estadio Municipal José Zorrilla,Jorge Figueroa,1,0,H
+19.0,Sun,2023-01-29,16:15,Osasuna,0.9,1.6,Atlético Madrid,20902.0,Estadio El Sadar,Hsu Jason,0,1,A
+19.0,Sun,2023-01-29,18:30,Celta Vigo,0.7,0.4,Athletic Club,14754.0,Estadio de Balaídos,Isidro Díaz de Mera,1,0,H
+19.0,Sun,2023-01-29,21:00,Real Madrid,1.3,0.4,Real Sociedad,58129.0,Estadio Santiago Bernabéu,Mario Melero,0,0,D
+19.0,Mon,2023-01-30,21:00,Villarreal,0.8,1.0,Rayo Vallecano,14378.0,Estadio de la Cerámica,Juan Pulido,0,1,A
+17.0,Wed,2023-02-01,21:00,Betis,0.6,1.9,Barcelona,48181.0,Estadio Benito Villamarín,Ricardo de Burgos,1,2,A
+17.0,Thu,2023-02-02,21:00,Real Madrid,2.3,0.2,Valencia,51926.0,Estadio Santiago Bernabéu,Hsu Jason,2,0,H
+20.0,Fri,2023-02-03,21:00,Athletic Club,1.7,1.6,Cádiz,42916.0,San Mamés,Valentín Pizarro,4,1,H
+20.0,Sat,2023-02-04,14:00,Espanyol,1.4,0.9,Osasuna,22438.0,RCDE Stadium,Jesús Gil,1,1,D
+20.0,Sat,2023-02-04,16:15,Elche,3.0,1.4,Villarreal,18421.0,Estadio Manuel Martínez Valero,José Luis Munuera,3,1,H
+20.0,Sat,2023-02-04,18:30,Atlético Madrid,0.7,1.2,Getafe,56079.0,Estadio Cívitas Metropolitano,Antonio Matéu,1,1,D
+20.0,Sat,2023-02-04,21:00,Betis,3.4,1.9,Celta Vigo,46595.0,Estadio Benito Villamarín,Carlos del Cerro,3,4,A
+20.0,Sun,2023-02-05,14:00,Mallorca,0.2,1.7,Real Madrid,18258.0,Iberostar Estadi,Alejandro Hernández,1,0,H
+20.0,Sun,2023-02-05,16:15,Girona,2.3,1.0,Valencia,10732.0,Estadi Municipal de Montilivi,Javier Villanueva,1,0,H
+20.0,Sun,2023-02-05,18:30,Real Sociedad,1.2,0.7,Valladolid,32214.0,Reale Arena,Pablo González,0,1,A
+20.0,Sun,2023-02-05,21:00,Barcelona,2.7,0.1,Sevilla,77987.0,Camp Nou,José Sánchez,3,0,H
+20.0,Mon,2023-02-06,21:00,Rayo Vallecano,1.1,1.2,Almería,11783.0,Estadio del Rayo Vallecano,César Soto,2,0,H
+21.0,Fri,2023-02-10,21:00,Cádiz,0.7,0.2,Girona,14873.0,Estadio Nuevo Mirandilla,Juan Pulido,2,0,H
+21.0,Sat,2023-02-11,16:15,Almería,2.3,2.5,Betis,14288.0,Power Horse Stadium,Hsu Jason,2,3,A
+21.0,Sat,2023-02-11,18:30,Sevilla,2.1,0.3,Mallorca,35150.0,Estadio Ramón Sánchez Pizjuán,Javier Villanueva,2,0,H
+21.0,Sat,2023-02-11,21:00,Valencia,1.6,1.5,Athletic Club,36688.0,Estadio de Mestalla,César Soto,1,2,A
+21.0,Sun,2023-02-12,14:00,Getafe,1.4,2.2,Rayo Vallecano,12042.0,Coliseum Alfonso Pérez,Isidro Díaz de Mera,1,1,D
+21.0,Sun,2023-02-12,16:15,Celta Vigo,0.9,0.9,Atlético Madrid,15842.0,Estadio de Balaídos,Jorge Figueroa,0,1,A
+21.0,Sun,2023-02-12,18:30,Valladolid,1.6,0.7,Osasuna,21044.0,Estadio Municipal José Zorrilla,Guillermo Cuadra,0,0,D
+21.0,Sun,2023-02-12,21:00,Villarreal,1.1,1.7,Barcelona,21178.0,Estadio de la Cerámica,Alejandro Hernández,0,1,A
+21.0,Mon,2023-02-13,21:00,Espanyol,1.2,1.4,Real Sociedad,15867.0,RCDE Stadium,Alejandro Muñíz,2,3,A
+21.0,Wed,2023-02-15,21:00,Real Madrid,4.1,0.6,Elche,44319.0,Estadio Santiago Bernabéu,Ricardo de Burgos,4,0,H
+22.0,Fri,2023-02-17,21:00,Girona,3.0,1.8,Almería,8879.0,Estadi Municipal de Montilivi,Valentín Pizarro,6,2,H
+22.0,Sat,2023-02-18,14:00,Real Sociedad,1.4,1.4,Celta Vigo,29312.0,Reale Arena,Miguel Ángel Ortiz Arias,1,1,D
+22.0,Sat,2023-02-18,16:15,Betis,2.4,1.0,Valladolid,51396.0,Estadio Benito Villamarín,Antonio Matéu,2,1,H
+22.0,Sat,2023-02-18,18:30,Mallorca,2.2,1.2,Villarreal,13957.0,Iberostar Estadi,José Sánchez,4,2,H
+22.0,Sat,2023-02-18,21:00,Osasuna,0.5,1.3,Real Madrid,21668.0,Estadio El Sadar,José Luis Munuera,0,2,A
+22.0,Sun,2023-02-19,14:00,Elche,1.8,1.3,Espanyol,18963.0,Estadio Manuel Martínez Valero,Carlos del Cerro,0,1,A
+22.0,Sun,2023-02-19,16:15,Rayo Vallecano,1.3,0.5,Sevilla,13294.0,Estadio del Rayo Vallecano,Jesús Gil,1,1,D
+22.0,Sun,2023-02-19,18:30,Atlético Madrid,1.2,0.8,Athletic Club,61617.0,Estadio Cívitas Metropolitano,Juan Martínez,1,0,H
+22.0,Sun,2023-02-19,21:00,Barcelona,2.2,1.0,Cádiz,72010.0,Camp Nou,Pablo González,2,0,H
+22.0,Mon,2023-02-20,21:00,Getafe,1.8,1.0,Valencia,10112.0,Coliseum Alfonso Pérez,Mario Melero,1,0,H
+23.0,Fri,2023-02-24,21:00,Elche,1.0,4.1,Betis,20643.0,Estadio Manuel Martínez Valero,Javier Villanueva,2,3,A
+23.0,Sat,2023-02-25,14:00,Espanyol,1.4,0.7,Mallorca,21403.0,RCDE Stadium,Hsu Jason,2,1,H
+23.0,Sat,2023-02-25,16:15,Cádiz,0.8,0.6,Rayo Vallecano,16703.0,Estadio Nuevo Mirandilla,Alejandro Muñíz,1,0,H
+23.0,Sat,2023-02-25,18:30,Real Madrid,1.6,0.3,Atlético Madrid,64721.0,Estadio Santiago Bernabéu,Jesús Gil,1,1,D
+23.0,Sat,2023-02-25,21:00,Valencia,0.5,0.7,Real Sociedad,37465.0,Estadio de Mestalla,Alejandro Hernández,1,0,H
+23.0,Sun,2023-02-26,14:00,Athletic Club,1.6,1.1,Girona,42816.0,San Mamés,Isidro Díaz de Mera,2,3,A
+23.0,Sun,2023-02-26,16:15,Celta Vigo,1.8,0.5,Valladolid,14755.0,Estadio de Balaídos,Ricardo de Burgos,3,0,H
+23.0,Sun,2023-02-26,18:30,Almería,1.0,1.4,Barcelona,15279.0,Power Horse Stadium,Miguel Ángel Ortiz Arias,1,0,H
+23.0,Sun,2023-02-26,21:00,Sevilla,1.7,0.9,Osasuna,34538.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido,2,3,A
+23.0,Mon,2023-02-27,21:00,Villarreal,1.5,0.6,Getafe,13090.0,Estadio de la Cerámica,Jorge Figueroa,2,1,H
+24.0,Fri,2023-03-03,21:00,Real Sociedad,1.2,0.6,Cádiz,28733.0,Reale Arena,Antonio Matéu,0,0,D
+24.0,Sat,2023-03-04,14:00,Getafe,1.5,0.8,Girona,9802.0,Coliseum Alfonso Pérez,Juan Martínez,3,2,H
+24.0,Sat,2023-03-04,16:15,Almería,0.4,2.1,Villarreal,13311.0,Power Horse Stadium,Pablo González,0,2,A
+24.0,Sat,2023-03-04,18:30,Mallorca,0.9,0.9,Elche,14065.0,Iberostar Estadi,José Luis Munuera,0,1,A
+24.0,Sat,2023-03-04,21:00,Atlético Madrid,3.2,1.5,Sevilla,57737.0,Estadio Cívitas Metropolitano,Guillermo Cuadra,6,1,H
+24.0,Sun,2023-03-05,14:00,Valladolid,1.4,1.2,Espanyol,19212.0,Estadio Municipal José Zorrilla,Valentín Pizarro,2,1,H
+24.0,Sun,2023-03-05,16:15,Barcelona,1.8,1.0,Valencia,89644.0,Camp Nou,Hsu Jason,1,0,H
+24.0,Sun,2023-03-05,18:30,Rayo Vallecano,1.1,1.3,Athletic Club,12979.0,Estadio del Rayo Vallecano,Mario Melero,0,0,D
+24.0,Sun,2023-03-05,21:00,Betis,0.5,1.5,Real Madrid,52212.0,Estadio Benito Villamarín,César Soto,0,0,D
+24.0,Mon,2023-03-06,21:00,Osasuna,0.8,1.1,Celta Vigo,17684.0,Estadio El Sadar,José Sánchez,0,0,D
+25.0,Fri,2023-03-10,21:00,Cádiz,1.7,2.7,Getafe,18414.0,Estadio Nuevo Mirandilla,Alejandro Hernández,2,2,D
+25.0,Sat,2023-03-11,14:00,Real Madrid,1.7,1.2,Espanyol,59872.0,Estadio Santiago Bernabéu,Jorge Figueroa,3,1,H
+25.0,Sat,2023-03-11,16:15,Elche,2.0,0.2,Valladolid,18972.0,Estadio Manuel Martínez Valero,Isidro Díaz de Mera,1,1,D
+25.0,Sat,2023-03-11,18:30,Celta Vigo,2.4,1.1,Rayo Vallecano,14451.0,Estadio de Balaídos,Juan Pulido,3,0,H
+25.0,Sat,2023-03-11,21:00,Valencia,1.7,0.3,Osasuna,37762.0,Estadio de Mestalla,Javier Villanueva,1,0,H
+25.0,Sun,2023-03-12,14:00,Mallorca,1.4,0.5,Real Sociedad,13840.0,Iberostar Estadi,Juan Martínez,1,1,D
+25.0,Sun,2023-03-12,16:15,Sevilla,3.0,1.1,Almería,37848.0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos,2,1,H
+25.0,Sun,2023-03-12,18:30,Villarreal,1.7,1.0,Betis,19174.0,Estadio de la Cerámica,Miguel Ángel Ortiz Arias,1,1,D
+25.0,Sun,2023-03-12,21:00,Athletic Club,0.9,0.9,Barcelona,49741.0,San Mamés,Jesús Gil,0,1,A
+25.0,Mon,2023-03-13,21:00,Girona,0.4,1.9,Atlético Madrid,12499.0,Estadi Municipal de Montilivi,Mario Melero,0,1,A
+26.0,Fri,2023-03-17,21:00,Valladolid,1.1,2.6,Athletic Club,21707.0,Estadio Municipal José Zorrilla,Hsu Jason,1,3,A
+26.0,Sat,2023-03-18,14:00,Almería,2.4,1.4,Cádiz,12183.0,Power Horse Stadium,Carlos del Cerro,1,1,D
+26.0,Sat,2023-03-18,16:15,Rayo Vallecano,1.9,1.8,Girona,12263.0,Estadio del Rayo Vallecano,Pablo González,2,2,D
+26.0,Sat,2023-03-18,18:30,Espanyol,1.2,1.6,Celta Vigo,26231.0,RCDE Stadium,Guillermo Cuadra,1,3,A
+26.0,Sat,2023-03-18,21:00,Atlético Madrid,1.9,1.0,Valencia,58317.0,Estadio Cívitas Metropolitano,José Luis Munuera,3,0,H
+26.0,Sun,2023-03-19,14:00,Betis,0.8,0.2,Mallorca,50402.0,Estadio Benito Villamarín,Valentín Pizarro,1,0,H
+26.0,Sun,2023-03-19,16:15,Osasuna,0.9,1.8,Villarreal,20128.0,Estadio El Sadar,Alejandro Muñíz,0,3,A
+26.0,Sun,2023-03-19,16:15,Real Sociedad,2.0,0.1,Elche,28496.0,Reale Arena,José Sánchez,2,0,H
+26.0,Sun,2023-03-19,18:30,Getafe,1.7,1.0,Sevilla,12253.0,Coliseum Alfonso Pérez,Antonio Matéu,2,0,H
+26.0,Sun,2023-03-19,21:00,Barcelona,1.6,0.5,Real Madrid,95745.0,Camp Nou,Ricardo de Burgos,2,1,H
+27.0,Fri,2023-03-31,21:00,Mallorca,0.5,0.5,Osasuna,14132.0,Iberostar Estadi,Isidro Díaz de Mera,0,0,D
+27.0,Sat,2023-04-01,14:00,Girona,1.6,1.0,Espanyol,12841.0,Estadi Municipal de Montilivi,Miguel Ángel Ortiz Arias,2,1,H
+27.0,Sat,2023-04-01,16:15,Athletic Club,0.9,0.8,Getafe,43782.0,San Mamés,Javier Villanueva,0,0,D
+27.0,Sat,2023-04-01,18:30,Cádiz,1.1,1.1,Sevilla,19181.0,Estadio Nuevo Mirandilla,César Soto,0,2,A
+27.0,Sat,2023-04-01,21:00,Elche,0.8,1.7,Barcelona,28142.0,Estadio Manuel Martínez Valero,Carlos del Cerro,0,4,A
+27.0,Sun,2023-04-02,14:00,Celta Vigo,2.0,1.0,Almería,14011.0,Estadio de Balaídos,Alejandro Hernández,2,2,D
+27.0,Sun,2023-04-02,16:15,Real Madrid,4.5,0.8,Valladolid,59400.0,Estadio Santiago Bernabéu,Juan Pulido,6,0,H
+27.0,Sun,2023-04-02,18:30,Villarreal,2.7,1.0,Real Sociedad,18768.0,Estadio de la Cerámica,Jesús Gil,2,0,H
+27.0,Sun,2023-04-02,21:00,Atlético Madrid,1.6,0.6,Betis,61623.0,Estadio Cívitas Metropolitano,Juan Martínez,1,0,H
+27.0,Mon,2023-04-03,21:00,Valencia,2.3,0.8,Rayo Vallecano,39769.0,Estadio de Mestalla,Jorge Figueroa,1,1,D
+28.0,Fri,2023-04-07,21:00,Sevilla,0.4,0.6,Celta Vigo,30778.0,Estadio Ramón Sánchez Pizjuán,Valentín Pizarro,2,2,D
+28.0,Sat,2023-04-08,14:00,Osasuna,1.2,0.7,Elche,16925.0,Estadio El Sadar,Pablo González,2,1,H
+28.0,Sat,2023-04-08,16:15,Espanyol,0.9,2.3,Athletic Club,24903.0,RCDE Stadium,José Luis Munuera,1,2,A
+28.0,Sat,2023-04-08,18:30,Real Sociedad,2.1,0.3,Getafe,27606.0,Reale Arena,Mario Melero,2,0,H
+28.0,Sat,2023-04-08,21:00,Real Madrid,2.4,1.5,Villarreal,57887.0,Estadio Santiago Bernabéu,Hsu Jason,2,3,A
+28.0,Sun,2023-04-09,14:00,Valladolid,1.2,1.8,Mallorca,18010.0,Estadio Municipal José Zorrilla,Alejandro Muñíz,3,3,D
+28.0,Sun,2023-04-09,16:15,Betis,1.2,2.9,Cádiz,51555.0,Estadio Benito Villamarín,Guillermo Cuadra,0,2,A
+28.0,Sun,2023-04-09,18:30,Almería,0.9,1.3,Valencia,14309.0,Power Horse Stadium,José Sánchez,2,1,H
+28.0,Sun,2023-04-09,21:00,Rayo Vallecano,0.7,1.9,Atlético Madrid,13512.0,Estadio del Rayo Vallecano,Ricardo de Burgos,1,2,A
+28.0,Mon,2023-04-10,21:00,Barcelona,1.3,0.6,Girona,78425.0,Camp Nou,Antonio Matéu,0,0,D
+29.0,Fri,2023-04-14,21:00,Rayo Vallecano,0.9,0.6,Osasuna,12726.0,Estadio del Rayo Vallecano,José Luis Munuera,2,1,H
+29.0,Sat,2023-04-15,14:00,Villarreal,2.0,2.2,Valladolid,14876.0,Estadio de la Cerámica,Javier Villanueva,1,2,A
+29.0,Sat,2023-04-15,16:15,Athletic Club,0.8,1.4,Real Sociedad,49287.0,San Mamés,César Soto,2,0,H
+29.0,Sat,2023-04-15,18:30,Betis,2.0,0.8,Espanyol,45313.0,Estadio Benito Villamarín,Alejandro Hernández,3,1,H
+29.0,Sat,2023-04-15,21:00,Cádiz,0.7,3.5,Real Madrid,19833.0,Estadio Nuevo Mirandilla,Jesús Gil,0,2,A
+29.0,Sun,2023-04-16,14:00,Girona,1.3,0.7,Elche,11114.0,Estadi Municipal de Montilivi,Jorge Figueroa,2,0,H
+29.0,Sun,2023-04-16,16:15,Getafe,0.5,1.5,Barcelona,14854.0,Coliseum Alfonso Pérez,Juan Pulido,0,0,D
+29.0,Sun,2023-04-16,18:30,Atlético Madrid,2.3,0.2,Almería,59204.0,Estadio Cívitas Metropolitano,Isidro Díaz de Mera,2,1,H
+29.0,Sun,2023-04-16,21:00,Valencia,0.4,0.4,Sevilla,39654.0,Estadio de Mestalla,Carlos del Cerro,0,2,A
+29.0,Mon,2023-04-17,21:00,Celta Vigo,0.8,1.0,Mallorca,13557.0,Estadio de Balaídos,Miguel Ángel Ortiz Arias,0,1,A
+30.0,Fri,2023-04-21,21:00,Espanyol,1.3,1.4,Cádiz,28512.0,RCDE Stadium,Juan Martínez,0,0,D
+30.0,Sat,2023-04-22,14:00,Osasuna,1.5,2.0,Betis,19723.0,Estadio El Sadar,Hsu Jason,3,2,H
+30.0,Sat,2023-04-22,16:15,Almería,0.8,1.7,Athletic Club,13271.0,Power Horse Stadium,Valentín Pizarro,1,2,A
+30.0,Sat,2023-04-22,18:30,Valladolid,1.1,1.0,Girona,21033.0,Estadio Municipal José Zorrilla,Mario Melero,1,0,H
+30.0,Sat,2023-04-22,18:30,Real Sociedad,0.6,0.5,Rayo Vallecano,32054.0,Reale Arena,Alejandro Muñíz,2,1,H
+30.0,Sat,2023-04-22,21:00,Real Madrid,1.5,0.9,Celta Vigo,60386.0,Estadio Santiago Bernabéu,Antonio Matéu,2,0,H
+30.0,Sun,2023-04-23,14:00,Elche,0.6,1.0,Valencia,22129.0,Estadio Manuel Martínez Valero,Guillermo Cuadra,0,2,A
+30.0,Sun,2023-04-23,16:15,Barcelona,1.8,1.3,Atlético Madrid,80965.0,Camp Nou,José Sánchez,1,0,H
+30.0,Sun,2023-04-23,18:30,Mallorca,1.5,0.1,Getafe,15687.0,Iberostar Estadi,Pablo González,3,1,H
+30.0,Sun,2023-04-23,21:00,Sevilla,0.9,2.2,Villarreal,29635.0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos,2,1,H
+31.0,Tue,2023-04-25,19:30,Cádiz,1.4,1.0,Osasuna,18008.0,Estadio Nuevo Mirandilla,Carlos del Cerro,0,1,A
+31.0,Tue,2023-04-25,19:30,Girona,2.3,1.8,Real Madrid,13306.0,Estadi Municipal de Montilivi,Javier Villanueva,4,2,H
+31.0,Tue,2023-04-25,22:00,Betis,1.0,0.9,Real Sociedad,42294.0,Estadio Benito Villamarín,Juan Martínez,0,0,D
+31.0,Wed,2023-04-26,19:30,Atlético Madrid,2.7,0.9,Mallorca,58523.0,Estadio Cívitas Metropolitano,Juan Pulido,3,1,H
+31.0,Wed,2023-04-26,19:30,Getafe,1.6,1.9,Almería,10260.0,Coliseum Alfonso Pérez,Hsu Jason,1,2,A
+31.0,Wed,2023-04-26,22:00,Rayo Vallecano,0.7,0.9,Barcelona,13657.0,Estadio del Rayo Vallecano,Jesús Gil,2,1,H
+31.0,Wed,2023-04-26,22:00,Celta Vigo,1.3,1.1,Elche,11649.0,Estadio de Balaídos,Isidro Díaz de Mera,1,0,H
+31.0,Thu,2023-04-27,19:30,Villarreal,3.7,0.9,Espanyol,16134.0,Estadio de la Cerámica,César Soto,4,2,H
+31.0,Thu,2023-04-27,19:30,Valencia,0.9,0.9,Valladolid,42023.0,Estadio de Mestalla,José Luis Munuera,2,1,H
+31.0,Thu,2023-04-27,22:00,Athletic Club,0.3,1.0,Sevilla,42716.0,San Mamés,Alejandro Hernández,0,1,A
+32.0,Fri,2023-04-28,21:00,Osasuna,1.4,1.4,Real Sociedad,21570.0,Estadio El Sadar,Valentín Pizarro,0,2,A
+32.0,Sat,2023-04-29,16:15,Elche,2.8,0.8,Rayo Vallecano,11259.0,Estadio Manuel Martínez Valero,Mario Melero,4,0,H
+32.0,Sat,2023-04-29,18:30,Real Madrid,2.8,1.3,Almería,58036.0,Estadio Santiago Bernabéu,Guillermo Cuadra,4,2,H
+32.0,Sat,2023-04-29,21:00,Barcelona,3.0,0.2,Betis,88530.0,Camp Nou,Carlos del Cerro,4,0,H
+32.0,Sun,2023-04-30,14:00,Cádiz,1.8,1.3,Valencia,18650.0,Estadio Nuevo Mirandilla,Ricardo de Burgos,2,1,H
+32.0,Sun,2023-04-30,16:15,Villarreal,2.4,0.9,Celta Vigo,16123.0,Estadio de la Cerámica,Pablo González,3,1,H
+32.0,Sun,2023-04-30,18:30,Espanyol,2.4,0.5,Getafe,26953.0,RCDE Stadium,José Sánchez,1,0,H
+32.0,Sun,2023-04-30,21:00,Valladolid,1.8,2.0,Atlético Madrid,23321.0,Estadio Municipal José Zorrilla,Antonio Matéu,2,5,A
+32.0,Mon,2023-05-01,19:00,Mallorca,0.9,1.7,Athletic Club,16807.0,Iberostar Estadi,Jorge Figueroa,1,1,D
+32.0,Mon,2023-05-01,21:00,Sevilla,2.2,0.8,Girona,35560.0,Estadio Ramón Sánchez Pizjuán,Alejandro Muñíz,0,2,A
+33.0,Tue,2023-05-02,19:30,Barcelona,2.8,0.4,Osasuna,76061.0,Camp Nou,Javier Villanueva,1,0,H
+33.0,Tue,2023-05-02,19:30,Almería,1.7,1.0,Elche,13352.0,Power Horse Stadium,Alejandro Hernández,2,1,H
+33.0,Tue,2023-05-02,22:00,Real Sociedad,1.9,0.8,Real Madrid,35314.0,Reale Arena,Juan Pulido,2,0,H
+33.0,Wed,2023-05-03,19:30,Valencia,1.2,0.7,Villarreal,43634.0,Estadio de Mestalla,Jesús Gil,1,1,D
+33.0,Wed,2023-05-03,22:00,Getafe,2.7,0.3,Celta Vigo,11022.0,Coliseum Alfonso Pérez,Guillermo Cuadra,1,0,H
+33.0,Wed,2023-05-03,22:00,Atlético Madrid,3.0,0.0,Cádiz,42023.0,Estadio Cívitas Metropolitano,César Soto,5,1,H
+33.0,Thu,2023-05-04,19:30,Sevilla,2.6,1.0,Espanyol,35391.0,Estadio Ramón Sánchez Pizjuán,Hsu Jason,3,2,H
+33.0,Thu,2023-05-04,19:30,Girona,1.7,1.4,Mallorca,11767.0,Estadi Municipal de Montilivi,Juan Martínez,2,1,H
+33.0,Thu,2023-05-04,22:00,Rayo Vallecano,1.4,0.6,Valladolid,11171.0,Estadio del Rayo Vallecano,Isidro Díaz de Mera,2,1,H
+33.0,Thu,2023-05-04,22:00,Athletic Club,1.6,1.2,Betis,43116.0,San Mamés,Miguel Ángel Ortiz Arias,0,1,A
+34.0,Fri,2023-05-12,21:00,Mallorca,1.2,0.7,Cádiz,15377.0,Iberostar Estadi,José Sánchez,1,0,H
+34.0,Sat,2023-05-13,14:00,Real Sociedad,2.7,1.2,Girona,30027.0,Reale Arena,Jorge Figueroa,2,2,D
+34.0,Sat,2023-05-13,16:15,Osasuna,1.9,0.5,Almería,19747.0,Estadio El Sadar,Antonio Matéu,3,1,H
+34.0,Sat,2023-05-13,18:30,Villarreal,3.2,3.1,Athletic Club,16871.0,Estadio de la Cerámica,Carlos del Cerro,5,1,H
+34.0,Sat,2023-05-13,21:00,Real Madrid,0.9,0.7,Getafe,52201.0,Estadio Santiago Bernabéu,Juan Martínez,1,0,H
+34.0,Sun,2023-05-14,14:00,Celta Vigo,0.7,1.2,Valencia,14517.0,Estadio de Balaídos,César Soto,1,2,A
+34.0,Sun,2023-05-14,16:15,Elche,1.4,1.5,Atlético Madrid,22174.0,Estadio Manuel Martínez Valero,Alejandro Muñíz,1,0,H
+34.0,Sun,2023-05-14,18:30,Valladolid,2.0,2.5,Sevilla,21580.0,Estadio Municipal José Zorrilla,Miguel Ángel Ortiz Arias,0,3,A
+34.0,Sun,2023-05-14,21:00,Espanyol,2.7,3.1,Barcelona,27360.0,RCDE Stadium,Ricardo de Burgos,2,4,A
+34.0,Mon,2023-05-15,21:00,Betis,1.5,1.3,Rayo Vallecano,48143.0,Estadio Benito Villamarín,Juan Pulido,3,1,H
+35.0,Fri,2023-05-19,21:00,Cádiz,2.2,0.7,Valladolid,18938.0,Estadio Nuevo Mirandilla,Juan Martínez,2,0,H
+35.0,Sat,2023-05-20,14:00,Girona,1.2,1.9,Villarreal,11649.0,Estadi Municipal de Montilivi,Valentín Pizarro,1,2,A
+35.0,Sat,2023-05-20,16:15,Athletic Club,1.0,0.5,Celta Vigo,40759.0,San Mamés,Mario Melero,2,1,H
+35.0,Sat,2023-05-20,18:30,Almería,1.8,0.8,Mallorca,12791.0,Power Horse Stadium,Carlos del Cerro,3,0,H
+35.0,Sat,2023-05-20,18:30,Getafe,1.5,1.1,Elche,13927.0,Coliseum Alfonso Pérez,Javier Villanueva,1,1,D
+35.0,Sat,2023-05-20,21:00,Barcelona,1.5,2.0,Real Sociedad,88049.0,Camp Nou,Hsu Jason,1,2,A
+35.0,Sun,2023-05-21,14:00,Rayo Vallecano,2.0,1.6,Espanyol,12142.0,Estadio del Rayo Vallecano,Alejandro Hernández,1,2,A
+35.0,Sun,2023-05-21,16:15,Atlético Madrid,1.9,0.8,Osasuna,57012.0,Estadio Cívitas Metropolitano,Pablo González,3,0,H
+35.0,Sun,2023-05-21,18:30,Valencia,1.0,1.4,Real Madrid,46002.0,Estadio de Mestalla,Ricardo de Burgos,1,0,H
+35.0,Sun,2023-05-21,21:00,Sevilla,1.1,0.1,Betis,41392.0,Estadio Ramón Sánchez Pizjuán,Jesús Gil,0,0,D
+36.0,Tue,2023-05-23,19:30,Celta Vigo,1.2,1.2,Girona,14117.0,Estadio de Balaídos,Antonio Matéu,1,1,D
+36.0,Tue,2023-05-23,19:30,Real Sociedad,1.9,0.1,Almería,31574.0,Reale Arena,Pablo González,1,0,H
+36.0,Tue,2023-05-23,22:00,Valladolid,2.3,1.7,Barcelona,22341.0,Estadio Municipal José Zorrilla,César Soto,3,1,H
+36.0,Wed,2023-05-24,19:30,Villarreal,2.4,1.7,Cádiz,15099.0,Estadio de la Cerámica,Juan Pulido,2,0,H
+36.0,Wed,2023-05-24,19:30,Elche,1.5,0.7,Sevilla,13263.0,Estadio Manuel Martínez Valero,Isidro Díaz de Mera,1,1,D
+36.0,Wed,2023-05-24,19:30,Real Madrid,1.3,0.7,Rayo Vallecano,45811.0,Estadio Santiago Bernabéu,Jesús Gil,2,1,H
+36.0,Wed,2023-05-24,22:00,Espanyol,3.0,2.3,Atlético Madrid,25822.0,RCDE Stadium,Mario Melero,3,3,D
+36.0,Wed,2023-05-24,22:00,Betis,1.2,0.5,Getafe,40289.0,Estadio Benito Villamarín,Ricardo de Burgos,0,1,A
+36.0,Thu,2023-05-25,19:30,Mallorca,0.5,1.9,Valencia,14631.0,Iberostar Estadi,Alejandro Hernández,1,0,H
+36.0,Thu,2023-05-25,21:30,Osasuna,0.8,0.8,Athletic Club,19830.0,Estadio El Sadar,Alejandro Muñíz,2,0,H
+37.0,Sat,2023-05-27,19:00,Sevilla,1.2,0.8,Real Madrid,29856.0,Estadio Ramón Sánchez Pizjuán,César Soto,1,2,A
+37.0,Sun,2023-05-28,19:00,Girona,1.0,2.5,Betis,12833.0,Estadi Municipal de Montilivi,Isidro Díaz de Mera,1,2,A
+37.0,Sun,2023-05-28,19:00,Almería,1.7,0.5,Valladolid,14608.0,Power Horse Stadium,Hsu Jason,0,0,D
+37.0,Sun,2023-05-28,19:00,Barcelona,3.6,0.1,Mallorca,88775.0,Camp Nou,Jorge Figueroa,3,0,H
+37.0,Sun,2023-05-28,19:00,Atlético Madrid,0.7,1.2,Real Sociedad,56169.0,Estadio Cívitas Metropolitano,Juan Pulido,2,1,H
+37.0,Sun,2023-05-28,19:00,Rayo Vallecano,1.4,0.4,Villarreal,11085.0,Estadio del Rayo Vallecano,Javier Villanueva,2,1,H
+37.0,Sun,2023-05-28,19:00,Getafe,2.5,0.5,Osasuna,13510.0,Coliseum Alfonso Pérez,Antonio Matéu,2,1,H
+37.0,Sun,2023-05-28,19:00,Athletic Club,2.4,0.9,Elche,37807.0,San Mamés,Valentín Pizarro,0,1,A
+37.0,Sun,2023-05-28,19:00,Cádiz,1.7,0.6,Celta Vigo,19725.0,Estadio Nuevo Mirandilla,Ricardo de Burgos,1,0,H
+37.0,Sun,2023-05-28,19:00,Valencia,2.6,1.2,Espanyol,44141.0,Estadio de Mestalla,Jesús Gil,2,2,D
+38.0,Sun,2023-06-04,18:30,Osasuna,1.8,0.9,Girona,22128.0,Estadio El Sadar,Miguel Ángel Ortiz Arias,2,1,H
+38.0,Sun,2023-06-04,18:30,Villarreal,1.6,1.8,Atlético Madrid,18226.0,Estadio de la Cerámica,Ricardo de Burgos,2,2,D
+38.0,Sun,2023-06-04,18:30,Real Madrid,1.8,2.3,Athletic Club,60781.0,Estadio Santiago Bernabéu,Isidro Díaz de Mera,1,1,D
+38.0,Sun,2023-06-04,18:30,Real Sociedad,1.8,0.4,Sevilla,35065.0,Reale Arena,Carlos del Cerro,2,1,H
+38.0,Sun,2023-06-04,18:30,Mallorca,2.2,1.1,Rayo Vallecano,14521.0,Iberostar Estadi,Antonio Matéu,3,0,H
+38.0,Sun,2023-06-04,21:00,Valladolid,0.9,0.5,Getafe,25517.0,Estadio Municipal José Zorrilla,José Luis Munuera,0,0,D
+38.0,Sun,2023-06-04,21:00,Elche,1.6,2.5,Cádiz,16585.0,Estadio Manuel Martínez Valero,Jesús Gil,1,1,D
+38.0,Sun,2023-06-04,21:00,Betis,0.6,1.2,Valencia,54087.0,Estadio Benito Villamarín,Hsu Jason,1,1,D
+38.0,Sun,2023-06-04,21:00,Espanyol,0.6,1.8,Almería,14213.0,RCDE Stadium,César Soto,3,3,D
+38.0,Sun,2023-06-04,21:00,Celta Vigo,0.7,1.2,Barcelona,23365.0,Estadio de Balaídos,Juan Pulido,2,1,H
+1.0,Fri,2023-08-11,19:30,Almería,1.4,2.1,Rayo Vallecano,14837.0,Power Horse Stadium,Javier Alberola,0,2,A
+1.0,Fri,2023-08-11,22:00,Sevilla,0.7,1.1,Valencia,34184.0,Estadio Ramón Sánchez Pizjuán,José Sánchez,1,2,A
+1.0,Sat,2023-08-12,17:00,Real Sociedad,1.0,0.8,Girona,30848.0,Reale Arena,Francisco Hernández,1,1,D
+1.0,Sat,2023-08-12,18:30,Las Palmas,0.9,1.6,Mallorca,24100.0,Estadio de Gran Canaria,Víctor García,1,1,D
+1.0,Sat,2023-08-12,21:30,Athletic Club,0.4,0.9,Real Madrid,48927.0,San Mamés,Jesús Gil,0,2,A
+1.0,Sun,2023-08-13,17:00,Celta Vigo,1.0,1.0,Osasuna,20269.0,Estadio Abanca Balaídos,Pablo González,0,2,A
+1.0,Sun,2023-08-13,19:30,Villarreal,0.9,1.1,Betis,17825.0,Estadio de la Cerámica,Miguel Ángel Ortiz Arias,1,2,A
+1.0,Sun,2023-08-13,21:30,Getafe,0.6,1.4,Barcelona,13410.0,Coliseum Alfonso Pérez,César Soto,0,0,D
+1.0,Mon,2023-08-14,19:30,Cádiz,0.7,0.3,Alavés,19306.0,Estadio Nuevo Mirandilla,Isidro Díaz de Mera,1,0,H
+1.0,Mon,2023-08-14,21:30,Atlético Madrid,2.4,0.9,Granada,56164.0,Estadio Cívitas Metropolitano,Juan Pulido,3,1,H
+2.0,Fri,2023-08-18,19:30,Mallorca,0.4,1.8,Villarreal,17775.0,Estadi Mallorca Son Moix,Javier Alberola,0,1,A
+2.0,Fri,2023-08-18,21:30,Valencia,1.5,0.5,Las Palmas,41053.0,Estadio de Mestalla,Javier Villanueva,1,0,H
+2.0,Sat,2023-08-19,17:00,Real Sociedad,0.7,1.0,Celta Vigo,30354.0,Reale Arena,Miguel Ángel Ortiz Arias,1,1,D
+2.0,Sat,2023-08-19,19:30,Almería,1.3,2.0,Real Madrid,17561.0,Power Horse Stadium,José Sánchez,1,3,A
+2.0,Sat,2023-08-19,21:30,Osasuna,1.3,1.5,Athletic Club,20704.0,Estadio El Sadar,José Luis Munuera,0,2,A
+2.0,Sun,2023-08-20,19:00,Girona,1.4,0.7,Getafe,11784.0,Estadi Municipal de Montilivi,Jorge Figueroa,3,0,H
+2.0,Sun,2023-08-20,19:30,Barcelona,3.4,1.1,Cádiz,39603.0,Estadi Olímpic Lluís Companys,Alejandro Muñíz,2,0,H
+2.0,Sun,2023-08-20,21:30,Betis,0.7,0.5,Atlético Madrid,51782.0,Estadio Benito Villamarín,Ricardo de Burgos,0,0,D
+2.0,Mon,2023-08-21,19:00,Alavés,1.8,0.6,Sevilla,15308.0,Estadio de Mendizorroza,Guillermo Cuadra,4,3,H
+2.0,Mon,2023-08-21,21:30,Granada,1.2,2.1,Rayo Vallecano,17338.0,Estadio Nuevo Los Cármenes,Pablo González,0,2,A
+3.0,Fri,2023-08-25,18:30,Las Palmas,0.9,1.0,Real Sociedad,25335.0,Estadio de Gran Canaria,Guillermo Cuadra,0,0,D
+3.0,Fri,2023-08-25,21:30,Celta Vigo,1.2,1.4,Real Madrid,23057.0,Estadio Abanca Balaídos,Isidro Díaz de Mera,0,1,A
+3.0,Sat,2023-08-26,19:00,Cádiz,1.6,0.3,Almería,18653.0,Estadio Nuevo Mirandilla,Víctor García,1,1,D
+3.0,Sat,2023-08-26,19:30,Granada,1.4,2.6,Mallorca,16368.0,Estadio Nuevo Los Cármenes,Francisco Hernández,3,2,H
+3.0,Sat,2023-08-26,21:30,Sevilla,1.7,1.7,Girona,29304.0,Estadio Ramón Sánchez Pizjuán,Jesús Gil,1,2,A
+3.0,Sun,2023-08-27,17:30,Villarreal,1.9,3.1,Barcelona,21679.0,Estadio de la Cerámica,Alejandro Hernández,3,4,A
+3.0,Sun,2023-08-27,19:30,Valencia,1.7,1.2,Osasuna,42474.0,Estadio de Mestalla,Juan Pulido,1,2,A
+3.0,Sun,2023-08-27,21:30,Athletic Club,2.9,0.4,Betis,44340.0,San Mamés,César Soto,4,2,H
+3.0,Mon,2023-08-28,19:30,Getafe,2.2,0.7,Alavés,11023.0,Coliseum Alfonso Pérez,Juan Martínez,1,0,H
+3.0,Mon,2023-08-28,21:30,Rayo Vallecano,0.6,3.4,Atlético Madrid,13966.0,Estadio del Rayo Vallecano,José Luis Munuera,0,7,A
+4.0,Fri,2023-09-01,19:30,Cádiz,2.1,0.3,Villarreal,18557.0,Estadio Nuevo Mirandilla,Juan Pulido,3,1,H
+4.0,Fri,2023-09-01,22:00,Almería,3.0,1.5,Celta Vigo,14196.0,Power Horse Stadium,Ricardo de Burgos,2,3,A
+4.0,Sat,2023-09-02,14:00,Real Sociedad,2.3,0.8,Granada,27808.0,Reale Arena,Javier Villanueva,5,3,H
+4.0,Sat,2023-09-02,16:15,Real Madrid,2.8,0.4,Getafe,66747.0,Estadio Santiago Bernabéu,Mario Melero,2,1,H
+4.0,Sat,2023-09-02,18:30,Alavés,1.3,0.8,Valencia,16641.0,Estadio de Mendizorroza,Pablo González,1,0,H
+4.0,Sat,2023-09-02,21:00,Betis,1.0,1.5,Rayo Vallecano,50619.0,Estadio Benito Villamarín,Alejandro Muñíz,1,0,H
+4.0,Sun,2023-09-03,14:00,Girona,1.0,1.1,Las Palmas,11619.0,Estadi Municipal de Montilivi,Mateo Busquets,1,0,H
+4.0,Sun,2023-09-03,16:15,Mallorca,0.4,0.6,Athletic Club,17043.0,Estadi Mallorca Son Moix,Jorge Figueroa,0,0,D
+4.0,Sun,2023-09-03,21:00,Osasuna,0.8,2.0,Barcelona,21966.0,Estadio El Sadar,Miguel Ángel Ortiz Arias,1,2,A
+5.0,Fri,2023-09-15,21:00,Rayo Vallecano,2.6,0.7,Alavés,12116.0,Estadio del Rayo Vallecano,Víctor García,2,0,H
+5.0,Sat,2023-09-16,14:00,Athletic Club,2.9,0.3,Cádiz,42881.0,San Mamés,Guillermo Cuadra,3,0,H
+5.0,Sat,2023-09-16,16:15,Valencia,1.3,0.6,Atlético Madrid,45363.0,Estadio de Mestalla,Jesús Gil,3,0,H
+5.0,Sat,2023-09-16,18:30,Celta Vigo,1.3,0.8,Mallorca,18693.0,Estadio Abanca Balaídos,José Luis Munuera,0,1,A
+5.0,Sat,2023-09-16,21:00,Barcelona,2.4,0.8,Betis,45055.0,Estadi Olímpic Lluís Companys,José Sánchez,5,0,H
+5.0,Sun,2023-09-17,14:00,Getafe,0.5,1.1,Osasuna,9808.0,Coliseum Alfonso Pérez,Alejandro Hernández,3,2,H
+5.0,Sun,2023-09-17,16:15,Villarreal,0.9,1.5,Almería,18467.0,Estadio de la Cerámica,Francisco Hernández,2,1,H
+5.0,Sun,2023-09-17,18:30,Sevilla,1.7,1.0,Las Palmas,40578.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,1,0,H
+5.0,Sun,2023-09-17,21:00,Real Madrid,2.0,1.6,Real Sociedad,70092.0,Estadio Santiago Bernabéu,César Soto,2,1,H
+5.0,Mon,2023-09-18,21:00,Granada,1.6,2.8,Girona,17323.0,Estadio Nuevo Los Cármenes,Isidro Díaz de Mera,2,4,A
+6.0,Fri,2023-09-22,21:00,Alavés,1.1,1.7,Athletic Club,19421.0,Estadio de Mendizorroza,Alejandro Muñíz,0,2,A
+6.0,Sat,2023-09-23,14:00,Girona,3.2,1.8,Mallorca,11511.0,Estadi Municipal de Montilivi,Pablo González,5,3,H
+6.0,Sat,2023-09-23,16:15,Osasuna,1.4,0.8,Sevilla,19670.0,Estadio El Sadar,Javier Villanueva,0,0,D
+6.0,Sat,2023-09-23,18:30,Barcelona,1.6,1.5,Celta Vigo,43272.0,Estadi Olímpic Lluís Companys,Mario Melero,3,2,H
+6.0,Sat,2023-09-23,21:00,Almería,2.6,0.8,Valencia,14266.0,Power Horse Stadium,Mateo Busquets,2,2,D
+6.0,Sun,2023-09-24,14:00,Real Sociedad,2.0,1.4,Getafe,29568.0,Reale Arena,Juan Pulido,4,3,H
+6.0,Sun,2023-09-24,16:15,Rayo Vallecano,1.2,1.6,Villarreal,12865.0,Estadio del Rayo Vallecano,Jorge Figueroa,1,1,D
+6.0,Sun,2023-09-24,17:30,Las Palmas,0.6,0.0,Granada,24848.0,Estadio de Gran Canaria,Ricardo de Burgos,1,0,H
+6.0,Sun,2023-09-24,18:30,Betis,1.8,0.2,Cádiz,56087.0,Estadio Benito Villamarín,Miguel Ángel Ortiz Arias,1,1,D
+6.0,Sun,2023-09-24,21:00,Atlético Madrid,1.4,1.0,Real Madrid,69082.0,Estadio Cívitas Metropolitano,Javier Alberola,3,1,H
+7.0,Tue,2023-09-26,19:00,Sevilla,2.2,1.8,Almería,35729.0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra,5,1,H
+7.0,Tue,2023-09-26,21:30,Mallorca,0.8,1.9,Barcelona,19939.0,Estadi Mallorca Son Moix,Alejandro Muñíz,2,2,D
+7.0,Wed,2023-09-27,19:00,Real Madrid,1.7,0.7,Las Palmas,65017.0,Estadio Santiago Bernabéu,José Luis Munuera,2,0,H
+7.0,Wed,2023-09-27,19:00,Villarreal,1.8,2.1,Girona,17188.0,Estadio de la Cerámica,José Sánchez,1,2,A
+7.0,Wed,2023-09-27,19:00,Athletic Club,0.7,1.4,Getafe,43091.0,San Mamés,Isidro Díaz de Mera,2,2,D
+7.0,Wed,2023-09-27,21:30,Valencia,0.4,0.2,Real Sociedad,44200.0,Estadio de Mestalla,Alejandro Hernández,0,1,A
+7.0,Wed,2023-09-27,21:30,Cádiz,0.6,0.3,Rayo Vallecano,18505.0,Estadio Nuevo Mirandilla,Francisco Hernández,0,0,D
+7.0,Thu,2023-09-28,19:00,Granada,1.8,0.9,Betis,18936.0,Estadio Nuevo Los Cármenes,Víctor García,1,1,D
+7.0,Thu,2023-09-28,19:00,Celta Vigo,0.6,2.6,Alavés,16852.0,Estadio Abanca Balaídos,César Soto,1,1,D
+7.0,Thu,2023-09-28,21:30,Osasuna,1.0,1.5,Atlético Madrid,20192.0,Estadio El Sadar,Juan Martínez,0,2,A
+8.0,Fri,2023-09-29,21:00,Barcelona,2.4,1.1,Sevilla,41116.0,Estadi Olímpic Lluís Companys,Miguel Ángel Ortiz Arias,1,0,H
+8.0,Sat,2023-09-30,14:00,Getafe,0.9,0.1,Villarreal,11255.0,Coliseum Alfonso Pérez,Mateo Busquets,0,0,D
+8.0,Sat,2023-09-30,16:15,Rayo Vallecano,2.3,1.5,Mallorca,11991.0,Estadio del Rayo Vallecano,Mario Melero,2,2,D
+8.0,Sat,2023-09-30,18:30,Girona,1.6,2.3,Real Madrid,14184.0,Estadi Municipal de Montilivi,Juan Pulido,0,3,A
+8.0,Sat,2023-09-30,21:00,Real Sociedad,1.4,1.8,Athletic Club,38229.0,Reale Arena,Jesús Gil,3,0,H
+8.0,Sun,2023-10-01,14:00,Almería,2.9,2.9,Granada,14264.0,Power Horse Stadium,Pablo González,3,3,D
+8.0,Sun,2023-10-01,16:15,Alavés,1.5,1.1,Osasuna,19035.0,Estadio de Mendizorroza,Jorge Figueroa,0,2,A
+8.0,Sun,2023-10-01,21:00,Betis,1.6,0.7,Valencia,50163.0,Estadio Benito Villamarín,Ricardo de Burgos,3,0,H
+8.0,Sun,2023-10-01,21:00,Atlético Madrid,2.7,0.8,Cádiz,53421.0,Estadio Cívitas Metropolitano,Javier Villanueva,3,2,H
+8.0,Mon,2023-10-02,20:00,Las Palmas,1.7,1.5,Celta Vigo,22472.0,Estadio de Gran Canaria,Javier Alberola,2,1,H
+9.0,Fri,2023-10-06,21:00,Athletic Club,1.9,0.1,Almería,43677.0,San Mamés,Víctor García,3,0,H
+9.0,Sat,2023-10-07,14:00,Cádiz,0.4,1.2,Girona,16438.0,Estadio Nuevo Mirandilla,Juan Martínez,0,1,A
+9.0,Sat,2023-10-07,16:15,Real Madrid,3.2,0.5,Osasuna,70864.0,Estadio Santiago Bernabéu,Guillermo Cuadra,4,0,H
+9.0,Sat,2023-10-07,18:30,Mallorca,0.6,0.5,Valencia,17659.0,Estadi Mallorca Son Moix,Francisco Hernández,1,1,D
+9.0,Sat,2023-10-07,21:00,Sevilla,1.0,1.0,Rayo Vallecano,35817.0,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera,2,2,D
+9.0,Sun,2023-10-08,14:00,Villarreal,1.0,1.1,Las Palmas,16249.0,Estadio de la Cerámica,Alejandro Muñíz,1,2,A
+9.0,Sun,2023-10-08,16:15,Atlético Madrid,2.2,1.2,Real Sociedad,65607.0,Estadio Cívitas Metropolitano,José Luis Munuera,2,1,H
+9.0,Sun,2023-10-08,18:30,Alavés,1.3,0.9,Betis,18288.0,Estadio de Mendizorroza,Alejandro Hernández,1,1,D
+9.0,Sun,2023-10-08,18:30,Celta Vigo,3.1,0.7,Getafe,17953.0,Estadio Abanca Balaídos,José Sánchez,2,2,D
+9.0,Sun,2023-10-08,21:00,Granada,0.8,3.0,Barcelona,20354.0,Estadio Nuevo Los Cármenes,César Soto,2,2,D
+10.0,Fri,2023-10-20,21:00,Osasuna,2.1,0.6,Granada,19739.0,Estadio El Sadar,Mateo Busquets,2,0,H
+10.0,Sat,2023-10-21,14:00,Real Sociedad,1.3,1.9,Mallorca,31279.0,Reale Arena,Jorge Figueroa,1,0,H
+10.0,Sat,2023-10-21,16:15,Getafe,1.5,1.1,Betis,13926.0,Coliseum Alfonso Pérez,César Soto,1,1,D
+10.0,Sat,2023-10-21,18:30,Sevilla,1.5,1.6,Real Madrid,41212.0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos,1,1,D
+10.0,Sat,2023-10-21,21:00,Celta Vigo,0.9,1.8,Atlético Madrid,20282.0,Estadio Abanca Balaídos,Guillermo Cuadra,0,3,A
+10.0,Sun,2023-10-22,13:00,Las Palmas,1.3,1.4,Rayo Vallecano,24548.0,Estadio de Gran Canaria,Javier Villanueva,0,1,A
+10.0,Sun,2023-10-22,16:15,Girona,1.9,1.0,Almería,12884.0,Estadi Municipal de Montilivi,Miguel Ángel Ortiz Arias,5,2,H
+10.0,Sun,2023-10-22,18:30,Villarreal,1.5,1.7,Alavés,17498.0,Estadio de la Cerámica,Jesús Gil,1,1,D
+10.0,Sun,2023-10-22,21:00,Barcelona,1.3,0.4,Athletic Club,38194.0,Estadi Olímpic Lluís Companys,Juan Martínez,1,0,H
+10.0,Mon,2023-10-23,21:00,Valencia,1.5,0.6,Cádiz,41647.0,Estadio de Mestalla,Pablo González,2,0,H
+11.0,Fri,2023-10-27,21:00,Girona,0.6,0.2,Celta Vigo,12671.0,Estadi Municipal de Montilivi,Isidro Díaz de Mera,1,0,H
+11.0,Sat,2023-10-28,14:00,Almería,0.3,0.9,Las Palmas,12132.0,Power Horse Stadium,Francisco Hernández,1,2,A
+11.0,Sat,2023-10-28,16:15,Barcelona,1.5,1.1,Real Madrid,50112.0,Estadi Olímpic Lluís Companys,Jesús Gil,1,2,A
+11.0,Sat,2023-10-28,18:30,Mallorca,0.9,0.2,Getafe,15310.0,Estadi Mallorca Son Moix,Pablo González,0,0,D
+11.0,Sat,2023-10-28,21:00,Cádiz,1.1,1.2,Sevilla,18886.0,Estadio Nuevo Mirandilla,César Soto,2,2,D
+11.0,Sun,2023-10-29,14:00,Betis,1.2,0.4,Osasuna,49123.0,Estadio Benito Villamarín,José Sánchez,2,1,H
+11.0,Sun,2023-10-29,16:15,Rayo Vallecano,1.0,2.0,Real Sociedad,12790.0,Estadio del Rayo Vallecano,Mateo Busquets,2,2,D
+11.0,Sun,2023-10-29,18:30,Athletic Club,1.9,1.9,Valencia,46563.0,San Mamés,Jorge Figueroa,2,2,D
+11.0,Sun,2023-10-29,21:00,Atlético Madrid,1.3,0.5,Alavés,50009.0,Estadio Cívitas Metropolitano,Alejandro Muñíz,2,1,H
+11.0,Mon,2023-10-30,21:00,Granada,2.1,1.6,Villarreal,16638.0,Estadio Nuevo Los Cármenes,Javier Villanueva,2,3,A
+12.0,Fri,2023-11-03,20:00,Las Palmas,0.4,1.2,Atlético Madrid,30080.0,Estadio de Gran Canaria,Mario Melero,2,1,H
+12.0,Sat,2023-11-04,14:00,Osasuna,1.4,2.2,Girona,20100.0,Estadio El Sadar,José Luis Munuera,2,4,A
+12.0,Sat,2023-11-04,16:15,Betis,2.2,0.6,Mallorca,50909.0,Estadio Benito Villamarín,Miguel Ángel Ortiz Arias,2,0,H
+12.0,Sat,2023-11-04,18:30,Celta Vigo,2.1,0.9,Sevilla,19023.0,Estadio Abanca Balaídos,Alejandro Hernández,1,1,D
+12.0,Sat,2023-11-04,21:00,Real Sociedad,0.9,1.2,Barcelona,37555.0,Reale Arena,Javier Alberola,0,1,A
+12.0,Sun,2023-11-05,14:00,Alavés,2.4,0.5,Almería,16380.0,Estadio de Mendizorroza,Juan Pulido,1,0,H
+12.0,Sun,2023-11-05,16:15,Valencia,1.2,0.5,Granada,44922.0,Estadio de Mestalla,Víctor García,1,0,H
+12.0,Sun,2023-11-05,18:30,Villarreal,2.1,2.3,Athletic Club,18709.0,Estadio de la Cerámica,Guillermo Cuadra,2,3,A
+12.0,Sun,2023-11-05,21:00,Real Madrid,2.2,0.1,Rayo Vallecano,70220.0,Estadio Santiago Bernabéu,Juan Martínez,0,0,D
+12.0,Mon,2023-11-06,21:00,Getafe,1.2,0.5,Cádiz,9853.0,Coliseum Alfonso Pérez,Ricardo de Burgos,1,0,H
+13.0,Fri,2023-11-10,21:00,Athletic Club,4.6,2.1,Celta Vigo,44435.0,San Mamés,Juan Pulido,4,3,H
+13.0,Sat,2023-11-11,14:00,Rayo Vallecano,1.7,4.5,Girona,13177.0,Estadio del Rayo Vallecano,Pablo González,1,2,A
+13.0,Sat,2023-11-11,16:15,Almería,0.4,2.4,Real Sociedad,13016.0,Power Horse Stadium,Isidro Díaz de Mera,1,3,A
+13.0,Sat,2023-11-11,18:30,Granada,1.7,2.3,Getafe,18103.0,Estadio Nuevo Los Cármenes,Alejandro Muñíz,1,1,D
+13.0,Sat,2023-11-11,18:30,Osasuna,1.0,0.4,Las Palmas,20125.0,Estadio El Sadar,Jorge Figueroa,1,1,D
+13.0,Sat,2023-11-11,21:00,Real Madrid,1.7,1.7,Valencia,72475.0,Estadio Santiago Bernabéu,José Sánchez,5,1,H
+13.0,Sun,2023-11-12,16:15,Barcelona,1.6,1.7,Alavés,38183.0,Estadi Olímpic Lluís Companys,Mateo Busquets,2,1,H
+13.0,Sun,2023-11-12,18:30,Sevilla,0.7,1.8,Betis,42222.0,Estadio Ramón Sánchez Pizjuán,Jesús Gil,1,1,D
+13.0,Sun,2023-11-12,21:00,Atlético Madrid,3.9,0.8,Villarreal,56632.0,Estadio Cívitas Metropolitano,Francisco Hernández,3,1,H
+14.0,Fri,2023-11-24,21:00,Alavés,0.8,1.1,Granada,15705.0,Estadio de Mendizorroza,Javier Alberola,3,1,H
+14.0,Sat,2023-11-25,14:00,Rayo Vallecano,0.7,1.0,Barcelona,14148.0,Estadio del Rayo Vallecano,José Luis Munuera,1,1,D
+14.0,Sat,2023-11-25,16:15,Valencia,0.5,0.8,Celta Vigo,43375.0,Estadio de Mestalla,César Soto,0,0,D
+14.0,Sat,2023-11-25,18:30,Getafe,1.2,1.8,Almería,10906.0,Coliseum Alfonso Pérez,Alejandro Hernández,2,1,H
+14.0,Sat,2023-11-25,21:00,Atlético Madrid,1.7,1.1,Mallorca,58119.0,Estadio Cívitas Metropolitano,Juan Martínez,1,0,H
+14.0,Sun,2023-11-26,14:00,Villarreal,2.4,1.0,Osasuna,16389.0,Estadio de la Cerámica,Ricardo de Burgos,3,1,H
+14.0,Sun,2023-11-26,16:15,Real Sociedad,0.7,0.6,Sevilla,33879.0,Reale Arena,Miguel Ángel Ortiz Arias,2,1,H
+14.0,Sun,2023-11-26,18:30,Cádiz,1.2,1.6,Real Madrid,20325.0,Estadio Nuevo Mirandilla,Guillermo Cuadra,0,3,A
+14.0,Sun,2023-11-26,21:00,Betis,1.4,0.6,Las Palmas,48132.0,Estadio Benito Villamarín,Víctor García,1,0,H
+14.0,Mon,2023-11-27,21:00,Girona,1.3,1.5,Athletic Club,13123.0,Estadi Municipal de Montilivi,Mario Melero,1,1,D
+13.0,Wed,2023-11-29,21:00,Mallorca,1.1,0.3,Cádiz,13821.0,Estadi Mallorca Son Moix,Javier Villanueva,1,1,D
+15.0,Fri,2023-12-01,20:00,Las Palmas,1.5,0.9,Getafe,21912.0,Estadio de Gran Canaria,Mateo Busquets,2,0,H
+15.0,Sat,2023-12-02,14:00,Girona,1.6,1.0,Valencia,13343.0,Estadi Municipal de Montilivi,Javier Villanueva,2,1,H
+15.0,Sat,2023-12-02,16:15,Athletic Club,1.3,0.5,Rayo Vallecano,44689.0,San Mamés,Francisco Hernández,4,0,H
+15.0,Sat,2023-12-02,18:30,Real Madrid,1.8,0.1,Granada,70685.0,Estadio Santiago Bernabéu,Pablo González,2,0,H
+15.0,Sat,2023-12-02,21:00,Osasuna,0.7,1.7,Real Sociedad,20859.0,Estadio El Sadar,Juan Pulido,1,1,D
+15.0,Sun,2023-12-03,14:00,Mallorca,0.8,0.3,Alavés,15090.0,Estadi Mallorca Son Moix,Jorge Figueroa,0,0,D
+15.0,Sun,2023-12-03,16:15,Almería,2.4,0.5,Betis,14253.0,Power Horse Stadium,Alejandro Muñíz,0,0,D
+15.0,Sun,2023-12-03,18:30,Sevilla,1.8,1.2,Villarreal,33898.0,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera,1,1,D
+15.0,Sun,2023-12-03,21:00,Barcelona,2.6,0.6,Atlético Madrid,34568.0,Estadi Olímpic Lluís Companys,José Sánchez,1,0,H
+15.0,Mon,2023-12-04,21:00,Celta Vigo,2.4,0.3,Cádiz,17302.0,Estadio Abanca Balaídos,Jesús Gil,1,1,D
+16.0,Fri,2023-12-08,21:00,Getafe,0.7,0.1,Valencia,11515.0,Coliseum Alfonso Pérez,Guillermo Cuadra,1,0,H
+16.0,Sat,2023-12-09,14:00,Alavés,1.9,0.4,Las Palmas,15971.0,Estadio de Mendizorroza,José Luis Munuera,0,1,A
+16.0,Sat,2023-12-09,16:15,Betis,1.3,1.0,Real Madrid,52756.0,Estadio Benito Villamarín,César Soto,1,1,D
+16.0,Sat,2023-12-09,18:30,Villarreal,2.2,1.5,Real Sociedad,19344.0,Estadio de la Cerámica,Mario Melero,0,3,A
+16.0,Sat,2023-12-09,21:00,Mallorca,0.5,0.6,Sevilla,16041.0,Estadi Mallorca Son Moix,Javier Alberola,1,0,H
+16.0,Sun,2023-12-10,14:00,Atlético Madrid,2.2,1.3,Almería,55473.0,Estadio Cívitas Metropolitano,Ricardo de Burgos,2,1,H
+16.0,Sun,2023-12-10,18:30,Cádiz,0.9,1.6,Osasuna,18356.0,Estadio Nuevo Mirandilla,Juan Martínez,1,1,D
+16.0,Sun,2023-12-10,21:00,Barcelona,3.7,2.5,Girona,42848.0,Estadi Olímpic Lluís Companys,Isidro Díaz de Mera,2,4,A
+16.0,Mon,2023-12-11,21:00,Granada,0.7,1.1,Athletic Club,12849.0,Estadio Nuevo Los Cármenes,Miguel Ángel Ortiz Arias,1,1,D
+16.0,Mon,2023-12-11,21:00,Rayo Vallecano,1.2,0.1,Celta Vigo,11796.0,Estadio del Rayo Vallecano,Víctor García,0,0,D
+17.0,Fri,2023-12-15,21:00,Osasuna,1.2,0.7,Rayo Vallecano,18586.0,Estadio El Sadar,Javier Villanueva,1,0,H
+17.0,Sat,2023-12-16,14:00,Celta Vigo,1.4,0.5,Granada,18027.0,Estadio Abanca Balaídos,José Sánchez,1,0,H
+17.0,Sat,2023-12-16,16:15,Athletic Club,2.4,0.4,Atlético Madrid,48781.0,San Mamés,Jesús Gil,2,0,H
+17.0,Sat,2023-12-16,18:30,Sevilla,1.0,2.4,Getafe,30005.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido,0,3,A
+17.0,Sat,2023-12-16,21:00,Valencia,0.5,3.2,Barcelona,46492.0,Estadio de Mestalla,Miguel Ángel Ortiz Arias,1,1,D
+17.0,Sun,2023-12-17,14:00,Almería,0.3,1.9,Mallorca,11936.0,Power Horse Stadium,Pablo González,0,0,D
+17.0,Sun,2023-12-17,16:15,Real Sociedad,1.1,1.1,Betis,33172.0,Reale Arena,Mateo Busquets,0,0,D
+17.0,Sun,2023-12-17,17:30,Las Palmas,0.7,1.6,Cádiz,25275.0,Estadio de Gran Canaria,Alejandro Muñíz,1,1,D
+17.0,Sun,2023-12-17,21:00,Real Madrid,2.3,0.8,Villarreal,70500.0,Estadio Santiago Bernabéu,Jorge Figueroa,4,1,H
+17.0,Mon,2023-12-18,21:00,Girona,1.7,0.7,Alavés,11812.0,Estadi Municipal de Montilivi,Francisco Hernández,3,0,H
+18.0,Tue,2023-12-19,19:00,Rayo Vallecano,0.3,0.3,Valencia,12290.0,Estadio del Rayo Vallecano,Javier Alberola,0,1,A
+18.0,Tue,2023-12-19,21:30,Atlético Madrid,2.0,2.0,Getafe,46401.0,Estadio Cívitas Metropolitano,José Luis Munuera,3,3,D
+18.0,Tue,2023-12-19,21:30,Granada,0.9,0.5,Sevilla,16534.0,Estadio Nuevo Los Cármenes,Mateo Busquets,0,3,A
+18.0,Wed,2023-12-20,19:00,Barcelona,3.4,1.6,Almería,34471.0,Estadi Olímpic Lluís Companys,Guillermo Cuadra,3,2,H
+18.0,Wed,2023-12-20,21:30,Athletic Club,3.4,0.3,Las Palmas,39471.0,San Mamés,Juan Martínez,1,0,H
+18.0,Wed,2023-12-20,21:30,Villarreal,2.4,1.3,Celta Vigo,14687.0,Estadio de la Cerámica,César Soto,3,2,H
+18.0,Thu,2023-12-21,19:00,Betis,1.5,1.7,Girona,51394.0,Estadio Benito Villamarín,Ricardo de Burgos,1,1,D
+18.0,Thu,2023-12-21,19:00,Cádiz,1.0,0.5,Real Sociedad,17693.0,Estadio Nuevo Mirandilla,Javier Villanueva,0,0,D
+18.0,Thu,2023-12-21,21:30,Mallorca,1.1,1.6,Osasuna,14192.0,Estadi Mallorca Son Moix,Mario Melero,3,2,H
+18.0,Thu,2023-12-21,21:30,Alavés,0.6,0.6,Real Madrid,19275.0,Estadio de Mendizorroza,Isidro Díaz de Mera,0,1,A
+4.0,Sat,2023-12-23,16:15,Atlético Madrid,0.9,0.3,Sevilla,64308.0,Estadio Cívitas Metropolitano,César Soto,1,0,H
+19.0,Tue,2024-01-02,17:00,Getafe,0.4,1.9,Rayo Vallecano,11204.0,Estadio Cívitas Metropolitano,Jorge Figueroa,0,2,A
+19.0,Tue,2024-01-02,19:15,Real Sociedad,1.2,1.0,Alavés,34051.0,Reale Arena,Víctor García,1,1,D
+19.0,Tue,2024-01-02,21:30,Valencia,2.8,0.5,Villarreal,44973.0,Estadio de Mestalla,Jesús Gil,3,1,H
+19.0,Wed,2024-01-03,17:00,Granada,3.0,0.8,Cádiz,17732.0,Estadio Nuevo Los Cármenes,Juan Pulido,2,0,H
+19.0,Wed,2024-01-03,19:15,Real Madrid,1.7,0.6,Mallorca,72394.0,Estadio Santiago Bernabéu,Alejandro Muñíz,1,0,H
+19.0,Wed,2024-01-03,19:15,Celta Vigo,2.7,1.4,Betis,21105.0,Estadio Abanca Balaídos,Miguel Ángel Ortiz Arias,2,1,H
+19.0,Wed,2024-01-03,21:30,Girona,2.3,2.3,Atlético Madrid,13804.0,Estadi Municipal de Montilivi,Alejandro Hernández,4,3,H
+19.0,Thu,2024-01-04,17:00,Osasuna,1.3,0.2,Almería,20391.0,Estadio El Sadar,César Soto,1,0,H
+19.0,Thu,2024-01-04,19:15,Sevilla,0.7,1.3,Athletic Club,28366.0,Estadio Ramón Sánchez Pizjuán,José Sánchez,0,2,A
+19.0,Thu,2024-01-04,20:30,Las Palmas,0.7,2.4,Barcelona,31712.0,Estadio de Gran Canaria,Pablo González,1,2,A
+20.0,Fri,2024-01-12,21:00,Sevilla,2.2,2.0,Alavés,34225.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,2,3,A
+20.0,Sat,2024-01-13,13:00,Las Palmas,0.8,2.0,Villarreal,24485.0,Estadio de Gran Canaria,Javier Villanueva,3,0,H
+20.0,Sat,2024-01-13,16:15,Mallorca,1.8,0.6,Celta Vigo,21130.0,Estadi Mallorca Son Moix,Víctor García,1,1,D
+20.0,Sat,2024-01-13,18:30,Athletic Club,1.6,1.1,Real Sociedad,51475.0,San Mamés,José Luis Munuera,2,1,H
+20.0,Sat,2024-01-13,21:00,Betis,1.8,0.5,Granada,50197.0,Estadio Benito Villamarín,Guillermo Cuadra,1,0,H
+20.0,Sun,2024-01-14,14:00,Almería,1.7,0.3,Girona,12111.0,Power Horse Stadium,Mateo Busquets,0,0,D
+20.0,Sun,2024-01-14,16:15,Cádiz,1.1,1.9,Valencia,18622.0,Estadio Nuevo Mirandilla,Isidro Díaz de Mera,1,4,A
+21.0,Fri,2024-01-19,21:00,Alavés,2.0,0.3,Cádiz,15838.0,Estadio de Mendizorroza,Alejandro Muñíz,1,0,H
+21.0,Sat,2024-01-20,14:00,Rayo Vallecano,1.6,0.7,Las Palmas,12477.0,Estadio del Rayo Vallecano,Mario Melero,0,2,A
+21.0,Sat,2024-01-20,16:15,Villarreal,1.9,0.4,Mallorca,16479.0,Estadio de la Cerámica,Miguel Ángel Ortiz Arias,1,1,D
+21.0,Sat,2024-01-20,18:30,Valencia,0.9,0.5,Athletic Club,45344.0,Estadio de Mestalla,Juan Pulido,1,0,H
+21.0,Sat,2024-01-20,21:00,Celta Vigo,0.3,0.8,Real Sociedad,20901.0,Estadio Abanca Balaídos,Jorge Figueroa,0,1,A
+21.0,Sun,2024-01-21,14:00,Osasuna,1.2,1.4,Getafe,18811.0,Estadio El Sadar,José Sánchez,3,2,H
+21.0,Sun,2024-01-21,16:15,Real Madrid,2.2,0.9,Almería,72044.0,Estadio Santiago Bernabéu,Francisco Hernández,3,2,H
+21.0,Sun,2024-01-21,18:30,Betis,1.1,3.0,Barcelona,53288.0,Estadio Benito Villamarín,Jesús Gil,2,4,A
+21.0,Sun,2024-01-21,21:00,Girona,2.3,0.7,Sevilla,13092.0,Estadi Municipal de Montilivi,Pablo González,5,1,H
+21.0,Mon,2024-01-22,21:00,Granada,0.6,1.2,Atlético Madrid,18704.0,Estadio Nuevo Los Cármenes,Juan Martínez,0,1,A
+22.0,Fri,2024-01-26,21:00,Almería,1.4,1.8,Alavés,13817.0,Power Horse Stadium,Miguel Ángel Ortiz Arias,0,3,A
+22.0,Sat,2024-01-27,14:00,Real Sociedad,0.2,0.1,Rayo Vallecano,32528.0,Reale Arena,Alejandro Hernández,0,0,D
+22.0,Sat,2024-01-27,15:15,Las Palmas,0.7,2.3,Real Madrid,32037.0,Estadio de Gran Canaria,César Soto,1,2,A
+22.0,Sat,2024-01-27,18:30,Barcelona,2.2,2.1,Villarreal,46229.0,Estadi Olímpic Lluís Companys,José Luis Munuera,3,5,A
+22.0,Sat,2024-01-27,21:00,Mallorca,1.5,0.4,Betis,20051.0,Estadi Mallorca Son Moix,Javier Villanueva,0,1,A
+22.0,Sun,2024-01-28,14:00,Celta Vigo,0.6,0.9,Girona,20684.0,Estadio Abanca Balaídos,Mario Melero,0,1,A
+22.0,Sun,2024-01-28,16:15,Cádiz,0.4,0.2,Athletic Club,18839.0,Estadio Nuevo Mirandilla,Mateo Busquets,0,0,D
+22.0,Sun,2024-01-28,18:30,Sevilla,0.8,1.2,Osasuna,36640.0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra,1,1,D
+22.0,Sun,2024-01-28,21:00,Atlético Madrid,2.4,0.5,Valencia,59493.0,Estadio Cívitas Metropolitano,Ricardo de Burgos,2,0,H
+22.0,Mon,2024-01-29,21:00,Getafe,1.3,1.9,Granada,10382.0,Coliseum Alfonso Pérez,Víctor García,2,0,H
+20.0,Wed,2024-01-31,19:00,Barcelona,1.9,1.0,Osasuna,37888.0,Estadi Olímpic Lluís Companys,Jorge Figueroa,1,0,H
+20.0,Wed,2024-01-31,21:00,Atlético Madrid,1.0,0.4,Rayo Vallecano,47003.0,Estadio Cívitas Metropolitano,César Soto,2,1,H
+20.0,Thu,2024-02-01,21:00,Getafe,0.8,2.0,Real Madrid,15264.0,Coliseum Alfonso Pérez,Ricardo de Burgos,0,2,A
+23.0,Fri,2024-02-02,21:00,Athletic Club,1.7,0.4,Mallorca,47061.0,San Mamés,Jorge Figueroa,4,0,H
+23.0,Sat,2024-02-03,14:00,Valencia,1.4,1.9,Almería,42877.0,Estadio de Mestalla,Alejandro Muñíz,2,1,H
+23.0,Sat,2024-02-03,16:15,Granada,0.1,1.0,Las Palmas,17941.0,Estadio Nuevo Los Cármenes,Mateo Busquets,1,1,D
+23.0,Sat,2024-02-03,18:30,Alavés,1.0,1.2,Barcelona,19480.0,Estadio de Mendizorroza,Juan Martínez,1,3,A
+23.0,Sat,2024-02-03,21:00,Girona,0.7,0.6,Real Sociedad,13755.0,Estadi Municipal de Montilivi,Jesús Gil,0,0,D
+23.0,Sun,2024-02-04,14:00,Villarreal,1.2,0.7,Cádiz,17183.0,Estadio de la Cerámica,Pablo González,0,0,D
+23.0,Sun,2024-02-04,16:15,Osasuna,1.1,1.1,Celta Vigo,20030.0,Estadio El Sadar,Javier Alberola,0,3,A
+23.0,Sun,2024-02-04,18:30,Betis,1.6,1.5,Getafe,53336.0,Estadio Benito Villamarín,Juan Pulido,1,1,D
+23.0,Sun,2024-02-04,21:00,Real Madrid,1.9,1.1,Atlético Madrid,76732.0,Estadio Santiago Bernabéu,José Sánchez,1,1,D
+23.0,Mon,2024-02-05,21:00,Rayo Vallecano,1.8,1.3,Sevilla,12546.0,Estadio del Rayo Vallecano,Francisco Hernández,1,2,A
+24.0,Fri,2024-02-09,21:00,Cádiz,0.8,1.0,Betis,15346.0,Estadio Nuevo Mirandilla,Ricardo de Burgos,0,2,A
+24.0,Sat,2024-02-10,14:00,Alavés,1.8,1.2,Villarreal,14523.0,Estadio de Mendizorroza,Mario Melero,1,1,D
+24.0,Sat,2024-02-10,16:15,Real Sociedad,1.5,0.5,Osasuna,32905.0,Reale Arena,Isidro Díaz de Mera,0,1,A
+24.0,Sat,2024-02-10,18:30,Real Madrid,3.2,0.3,Girona,76585.0,Estadio Santiago Bernabéu,Juan Martínez,4,0,H
+24.0,Sat,2024-02-10,20:00,Las Palmas,1.3,0.5,Valencia,25633.0,Estadio de Gran Canaria,Guillermo Cuadra,2,0,H
+24.0,Sun,2024-02-11,14:00,Getafe,2.1,1.2,Celta Vigo,11502.0,Coliseum Alfonso Pérez,Alejandro Hernández,3,2,H
+24.0,Sun,2024-02-11,16:15,Mallorca,0.9,1.6,Rayo Vallecano,16735.0,Estadi Mallorca Son Moix,José Luis Munuera,2,1,H
+24.0,Sun,2024-02-11,18:30,Sevilla,1.0,1.5,Atlético Madrid,31528.0,Estadio Ramón Sánchez Pizjuán,Javier Villanueva,1,0,H
+24.0,Sun,2024-02-11,21:00,Barcelona,2.3,1.4,Granada,41901.0,Estadi Olímpic Lluís Companys,Miguel Ángel Ortiz Arias,3,3,D
+24.0,Mon,2024-02-12,21:00,Almería,0.9,0.7,Athletic Club,12863.0,Power Horse Stadium,Víctor García,0,0,D
+25.0,Fri,2024-02-16,21:00,Villarreal,1.2,0.8,Getafe,16869.0,Estadio de la Cerámica,Javier Alberola,1,1,D
+25.0,Sat,2024-02-17,14:00,Atlético Madrid,3.5,0.7,Las Palmas,61196.0,Estadio Cívitas Metropolitano,Jorge Figueroa,5,0,H
+25.0,Sat,2024-02-17,16:15,Osasuna,2.0,0.5,Cádiz,19525.0,Estadio El Sadar,Francisco Hernández,2,0,H
+25.0,Sat,2024-02-17,18:30,Celta Vigo,0.8,1.5,Barcelona,23096.0,Estadio Abanca Balaídos,Juan Pulido,1,2,A
+25.0,Sat,2024-02-17,21:00,Valencia,1.0,0.0,Sevilla,44506.0,Estadio de Mestalla,César Soto,0,0,D
+25.0,Sun,2024-02-18,14:00,Rayo Vallecano,1.1,1.1,Real Madrid,14354.0,Estadio del Rayo Vallecano,Alejandro Muñíz,1,1,D
+25.0,Sun,2024-02-18,16:15,Granada,2.0,1.4,Almería,18756.0,Estadio Nuevo Los Cármenes,Jesús Gil,1,1,D
+25.0,Sun,2024-02-18,18:30,Mallorca,0.1,1.1,Real Sociedad,18153.0,Estadi Mallorca Son Moix,Pablo González,1,2,A
+25.0,Sun,2024-02-18,21:00,Betis,0.8,0.5,Alavés,43514.0,Estadio Benito Villamarín,Mateo Busquets,0,0,D
+25.0,Mon,2024-02-19,21:00,Athletic Club,1.8,2.1,Girona,46220.0,San Mamés,José Sánchez,3,2,H
+26.0,Fri,2024-02-23,21:00,Real Sociedad,1.5,1.0,Villarreal,30609.0,Reale Arena,Javier Villanueva,1,3,A
+26.0,Sat,2024-02-24,16:15,Barcelona,3.1,0.5,Getafe,36803.0,Estadi Olímpic Lluís Companys,Alejandro Muñíz,4,0,H
+26.0,Sat,2024-02-24,18:30,Alavés,0.5,2.2,Mallorca,16102.0,Estadio de Mendizorroza,Víctor García,1,1,D
+26.0,Sat,2024-02-24,21:00,Almería,0.5,1.5,Atlético Madrid,14472.0,Power Horse Stadium,Javier Alberola,2,2,D
+26.0,Sun,2024-02-25,14:00,Cádiz,2.2,0.7,Celta Vigo,18123.0,Estadio Nuevo Mirandilla,Miguel Ángel Ortiz Arias,2,2,D
+26.0,Sun,2024-02-25,16:15,Betis,1.2,0.2,Athletic Club,53537.0,Estadio Benito Villamarín,Guillermo Cuadra,3,1,H
+26.0,Sun,2024-02-25,17:30,Las Palmas,0.7,0.7,Osasuna,25075.0,Estadio de Gran Canaria,José Luis Munuera,1,1,D
+26.0,Sun,2024-02-25,21:00,Real Madrid,1.0,0.8,Sevilla,74969.0,Estadio Santiago Bernabéu,Isidro Díaz de Mera,1,0,H
+26.0,Mon,2024-02-26,21:00,Girona,2.2,0.5,Rayo Vallecano,8923.0,Estadi Municipal de Montilivi,Ricardo de Burgos,3,0,H
+27.0,Fri,2024-03-01,21:00,Celta Vigo,1.5,0.1,Almería,18005.0,Estadio Abanca Balaídos,José Sánchez,1,0,H
+27.0,Sat,2024-03-02,14:00,Sevilla,2.0,1.5,Real Sociedad,35884.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets,3,2,H
+27.0,Sat,2024-03-02,16:15,Rayo Vallecano,0.7,1.0,Cádiz,12272.0,Estadio del Rayo Vallecano,Javier Alberola,1,1,D
+27.0,Sat,2024-03-02,18:30,Getafe,2.3,1.6,Las Palmas,7623.0,Coliseum Alfonso Pérez,Pablo González,3,3,D
+27.0,Sat,2024-03-02,21:00,Valencia,1.1,2.2,Real Madrid,47427.0,Estadio de Mestalla,Jesús Gil,2,2,D
+27.0,Sun,2024-03-03,14:00,Villarreal,2.0,0.5,Granada,15896.0,Estadio de la Cerámica,Juan Pulido,5,1,H
+27.0,Sun,2024-03-03,16:15,Atlético Madrid,3.0,0.6,Betis,61901.0,Estadio Cívitas Metropolitano,César Soto,2,1,H
+27.0,Sun,2024-03-03,18:30,Mallorca,1.2,1.0,Girona,17769.0,Estadi Mallorca Son Moix,Francisco Hernández,1,0,H
+27.0,Sun,2024-03-03,21:00,Athletic Club,0.4,0.7,Barcelona,50295.0,San Mamés,Alejandro Hernández,0,0,D
+27.0,Mon,2024-03-04,21:00,Osasuna,1.0,1.0,Alavés,17215.0,Estadio El Sadar,Jorge Figueroa,1,0,H
+28.0,Fri,2024-03-08,21:00,Barcelona,2.0,0.6,Mallorca,38225.0,Estadi Olímpic Lluís Companys,Javier Villanueva,1,0,H
+28.0,Sat,2024-03-09,14:00,Valencia,0.8,1.3,Getafe,37961.0,Estadio de Mestalla,Juan Pulido,1,0,H
+28.0,Sat,2024-03-09,16:15,Cádiz,1.1,0.9,Atlético Madrid,15917.0,Estadio Nuevo Mirandilla,Pablo González,2,0,H
+28.0,Sat,2024-03-09,18:30,Granada,1.7,2.1,Real Sociedad,9214.0,Estadio Nuevo Los Cármenes,Juan Martínez,2,3,A
+28.0,Sat,2024-03-09,21:00,Girona,1.9,0.2,Osasuna,11598.0,Estadi Municipal de Montilivi,Mateo Busquets,2,0,H
+28.0,Sun,2024-03-10,14:00,Alavés,0.6,0.6,Rayo Vallecano,16519.0,Estadio de Mendizorroza,José Luis Munuera,1,0,H
+28.0,Sun,2024-03-10,15:15,Las Palmas,1.2,1.1,Athletic Club,27316.0,Estadio de Gran Canaria,Miguel Ángel Ortiz Arias,0,2,A
+28.0,Sun,2024-03-10,18:30,Real Madrid,3.4,0.8,Celta Vigo,73644.0,Estadio Santiago Bernabéu,Mario Melero,4,0,H
+28.0,Sun,2024-03-10,21:00,Betis,1.0,1.4,Villarreal,47711.0,Estadio Benito Villamarín,Alejandro Hernández,2,3,A
+28.0,Mon,2024-03-11,21:00,Almería,2.0,2.4,Sevilla,13095.0,Power Horse Stadium,Ricardo de Burgos,2,2,D
+29.0,Fri,2024-03-15,21:00,Real Sociedad,1.9,0.8,Cádiz,31000.0,Reale Arena,César Soto,2,0,H
+29.0,Sat,2024-03-16,14:00,Mallorca,1.6,0.4,Granada,16477.0,Estadi Mallorca Son Moix,Ricardo de Burgos,1,0,H
+29.0,Sat,2024-03-16,16:15,Osasuna,0.7,2.9,Real Madrid,22430.0,Estadio El Sadar,Juan Martínez,2,4,A
+29.0,Sat,2024-03-16,18:30,Getafe,1.2,1.8,Girona,12912.0,Coliseum Alfonso Pérez,José Luis Munuera,1,0,H
+29.0,Sat,2024-03-16,21:00,Athletic Club,1.7,1.3,Alavés,48257.0,San Mamés,Alejandro Muñíz,2,0,H
+29.0,Sun,2024-03-17,14:00,Sevilla,1.7,1.6,Celta Vigo,36544.0,Estadio Ramón Sánchez Pizjuán,Francisco Hernández,1,2,A
+29.0,Sun,2024-03-17,15:15,Las Palmas,0.9,0.8,Almería,22865.0,Estadio de Gran Canaria,Víctor García,0,1,A
+29.0,Sun,2024-03-17,16:15,Villarreal,2.0,1.1,Valencia,20647.0,Estadio de la Cerámica,Jorge Figueroa,1,0,H
+29.0,Sun,2024-03-17,18:30,Rayo Vallecano,0.7,0.8,Betis,13264.0,Estadio del Rayo Vallecano,Juan Pulido,2,0,H
+29.0,Sun,2024-03-17,21:00,Atlético Madrid,0.8,1.5,Barcelona,68253.0,Estadio Cívitas Metropolitano,José Sánchez,0,3,A
+30.0,Fri,2024-03-29,21:00,Cádiz,1.6,0.5,Granada,15422.0,Estadio Nuevo Mirandilla,Guillermo Cuadra,1,0,H
+30.0,Sat,2024-03-30,14:00,Getafe,1.6,0.8,Sevilla,10139.0,Coliseum Alfonso Pérez,Javier Villanueva,0,1,A
+30.0,Sat,2024-03-30,16:15,Almería,0.8,1.0,Osasuna,10565.0,Power Horse Stadium,Pablo González,0,3,A
+30.0,Sat,2024-03-30,18:30,Valencia,1.5,0.9,Mallorca,42567.0,Estadio de Mestalla,Miguel Ángel Ortiz Arias,0,0,D
+30.0,Sat,2024-03-30,21:00,Barcelona,1.7,0.3,Las Palmas,46788.0,Estadi Olímpic Lluís Companys,Mateo Busquets,1,0,H
+30.0,Sun,2024-03-31,14:00,Celta Vigo,0.8,0.6,Rayo Vallecano,21505.0,Estadio Abanca Balaídos,Alejandro Hernández,0,0,D
+30.0,Sun,2024-03-31,16:15,Girona,2.6,0.5,Betis,12774.0,Estadi Municipal de Montilivi,Jesús Gil,3,2,H
+30.0,Sun,2024-03-31,18:30,Alavés,0.3,0.9,Real Sociedad,18575.0,Estadio de Mendizorroza,Francisco Hernández,0,1,A
+30.0,Sun,2024-03-31,21:00,Real Madrid,1.1,0.3,Athletic Club,72991.0,Estadio Santiago Bernabéu,Javier Alberola,2,0,H
+30.0,Mon,2024-04-01,21:00,Villarreal,0.8,1.3,Atlético Madrid,19679.0,Estadio de la Cerámica,Mario Melero,1,2,A
+26.0,Thu,2024-04-04,20:00,Granada,0.6,0.4,Valencia,15107.0,Estadio Nuevo Los Cármenes,Alejandro Hernández,0,1,A
+31.0,Fri,2024-04-12,21:00,Betis,1.2,1.6,Celta Vigo,48938.0,Estadio Benito Villamarín,Juan Martínez,2,1,H
+31.0,Sat,2024-04-13,14:00,Atlético Madrid,2.3,2.4,Girona,64214.0,Estadio Cívitas Metropolitano,Ricardo de Burgos,3,1,H
+31.0,Sat,2024-04-13,16:15,Rayo Vallecano,1.0,0.3,Getafe,12868.0,Estadio del Rayo Vallecano,Jorge Figueroa,0,0,D
+31.0,Sat,2024-04-13,18:30,Mallorca,0.6,1.5,Real Madrid,23244.0,Estadi Mallorca Son Moix,José Sánchez,0,1,A
+31.0,Sat,2024-04-13,21:00,Cádiz,1.0,0.9,Barcelona,19607.0,Estadio Nuevo Mirandilla,Juan Pulido,0,1,A
+31.0,Sun,2024-04-14,13:00,Las Palmas,0.1,2.1,Sevilla,23698.0,Estadio de Gran Canaria,Alejandro Muñíz,0,2,A
+31.0,Sun,2024-04-14,16:15,Granada,1.3,0.3,Alavés,13398.0,Estadio Nuevo Los Cármenes,Víctor García,2,0,H
+31.0,Sun,2024-04-14,18:30,Athletic Club,0.7,2.1,Villarreal,50061.0,San Mamés,Guillermo Cuadra,1,1,D
+31.0,Sun,2024-04-14,21:00,Real Sociedad,1.5,1.6,Almería,26520.0,Reale Arena,Isidro Díaz de Mera,2,2,D
+31.0,Mon,2024-04-15,21:00,Osasuna,1.9,0.2,Valencia,19480.0,Estadio El Sadar,José Luis Munuera,0,1,A
+32.0,Fri,2024-04-19,21:00,Athletic Club,1.5,0.2,Granada,45917.0,San Mamés,Javier Villanueva,1,1,D
+32.0,Sat,2024-04-20,14:00,Celta Vigo,4.0,1.0,Las Palmas,21256.0,Estadio Abanca Balaídos,Francisco Hernández,4,1,H
+32.0,Sat,2024-04-20,16:15,Rayo Vallecano,0.5,0.5,Osasuna,12617.0,Estadio del Rayo Vallecano,Mario Melero,2,1,H
+32.0,Sat,2024-04-20,18:30,Valencia,1.1,1.3,Betis,46371.0,Estadio de Mestalla,Mateo Busquets,1,2,A
+32.0,Sat,2024-04-20,21:00,Girona,2.1,1.6,Cádiz,12665.0,Estadi Municipal de Montilivi,Javier Alberola,4,1,H
+32.0,Sun,2024-04-21,14:00,Getafe,0.5,1.2,Real Sociedad,12228.0,Coliseum Alfonso Pérez,Víctor García,1,1,D
+32.0,Sun,2024-04-21,16:15,Almería,1.8,1.6,Villarreal,10601.0,Power Horse Stadium,Miguel Ángel Ortiz Arias,1,2,A
+32.0,Sun,2024-04-21,18:30,Alavés,0.4,0.9,Atlético Madrid,18719.0,Estadio de Mendizorroza,Jesús Gil,2,0,H
+32.0,Sun,2024-04-21,21:00,Real Madrid,2.3,1.4,Barcelona,77981.0,Estadio Santiago Bernabéu,César Soto,3,2,H
+32.0,Mon,2024-04-22,21:00,Sevilla,1.1,0.7,Mallorca,35203.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,2,1,H
+33.0,Fri,2024-04-26,21:00,Real Sociedad,0.6,0.4,Real Madrid,37109.0,Reale Arena,José Luis Munuera,0,1,A
+33.0,Sat,2024-04-27,13:00,Las Palmas,1.6,1.9,Girona,18734.0,Estadio de Gran Canaria,Jorge Figueroa,0,2,A
+33.0,Sat,2024-04-27,16:15,Almería,2.4,1.7,Getafe,7874.0,Power Horse Stadium,Guillermo Cuadra,1,3,A
+33.0,Sat,2024-04-27,18:30,Alavés,2.3,0.2,Celta Vigo,18039.0,Estadio de Mendizorroza,Juan Pulido,3,0,H
+33.0,Sat,2024-04-27,21:00,Atlético Madrid,0.8,1.0,Athletic Club,64612.0,Estadio Cívitas Metropolitano,Juan Martínez,3,1,H
+33.0,Sun,2024-04-28,14:00,Cádiz,0.4,0.9,Mallorca,18174.0,Estadio Nuevo Mirandilla,Isidro Díaz de Mera,1,1,D
+33.0,Sun,2024-04-28,16:15,Granada,2.6,0.8,Osasuna,13825.0,Estadio Nuevo Los Cármenes,Alejandro Muñíz,3,0,H
+33.0,Sun,2024-04-28,18:30,Villarreal,1.4,1.0,Rayo Vallecano,17869.0,Estadio de la Cerámica,Pablo González,3,0,H
+33.0,Sun,2024-04-28,21:00,Betis,1.8,1.4,Sevilla,55770.0,Estadio Benito Villamarín,José Sánchez,1,1,D
+33.0,Mon,2024-04-29,21:00,Barcelona,2.2,2.1,Valencia,30167.0,Estadi Olímpic Lluís Companys,Ricardo de Burgos,4,2,H
+34.0,Fri,2024-05-03,21:00,Getafe,4.5,0.6,Athletic Club,12149.0,Coliseum Alfonso Pérez,Jesús Gil,0,2,A
+34.0,Sat,2024-05-04,14:00,Real Sociedad,0.6,0.5,Las Palmas,29330.0,Reale Arena,Miguel Ángel Ortiz Arias,2,0,H
+34.0,Sat,2024-05-04,16:15,Real Madrid,2.3,0.9,Cádiz,72654.0,Estadio Santiago Bernabéu,Javier Villanueva,3,0,H
+34.0,Sat,2024-05-04,18:30,Girona,1.8,2.6,Barcelona,14090.0,Estadi Municipal de Montilivi,Alejandro Hernández,4,2,H
+34.0,Sat,2024-05-04,21:00,Mallorca,0.2,0.7,Atlético Madrid,20519.0,Estadi Mallorca Son Moix,Javier Alberola,0,1,A
+34.0,Sun,2024-05-05,14:00,Osasuna,0.8,1.1,Betis,18300.0,Estadio El Sadar,Víctor García,0,2,A
+34.0,Sun,2024-05-05,16:15,Celta Vigo,3.9,0.6,Villarreal,19548.0,Estadio Abanca Balaídos,César Soto,3,2,H
+34.0,Sun,2024-05-05,18:30,Valencia,0.9,0.8,Alavés,44643.0,Estadio de Mestalla,Mario Melero,0,1,A
+34.0,Sun,2024-05-05,21:00,Sevilla,1.7,0.4,Granada,32658.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets,3,0,H
+34.0,Sun,2024-05-05,21:00,Rayo Vallecano,1.4,0.4,Almería,10864.0,Estadio del Rayo Vallecano,Francisco Hernández,0,1,A
+35.0,Fri,2024-05-10,21:00,Alavés,1.7,1.7,Girona,17906.0,Estadio de Mendizorroza,José Luis Munuera,2,2,D
+35.0,Sat,2024-05-11,14:00,Mallorca,0.3,0.4,Las Palmas,16050.0,Estadi Mallorca Son Moix,Juan Martínez,1,0,H
+35.0,Sat,2024-05-11,16:15,Villarreal,3.1,1.7,Sevilla,16862.0,Estadio de la Cerámica,Isidro Díaz de Mera,3,2,H
+35.0,Sat,2024-05-11,18:30,Granada,1.0,1.5,Real Madrid,20058.0,Estadio Nuevo Los Cármenes,Pablo González,0,4,A
+35.0,Sat,2024-05-11,21:00,Athletic Club,1.4,1.0,Osasuna,45273.0,San Mamés,José Sánchez,2,2,D
+35.0,Sun,2024-05-12,14:00,Cádiz,1.5,0.5,Getafe,16592.0,Estadio Nuevo Mirandilla,Ricardo de Burgos,1,0,H
+35.0,Sun,2024-05-12,16:15,Atlético Madrid,1.4,0.4,Celta Vigo,63014.0,Estadio Cívitas Metropolitano,Jorge Figueroa,1,0,H
+35.0,Sun,2024-05-12,18:30,Valencia,1.3,0.6,Rayo Vallecano,42642.0,Estadio de Mestalla,Juan Pulido,0,0,D
+35.0,Sun,2024-05-12,21:00,Betis,0.8,1.2,Almería,48622.0,Estadio Benito Villamarín,Alejandro Muñíz,3,2,H
+35.0,Mon,2024-05-13,21:00,Barcelona,2.1,0.7,Real Sociedad,35829.0,Estadi Olímpic Lluís Companys,Guillermo Cuadra,2,0,H
+36.0,Tue,2024-05-14,19:30,Osasuna,0.4,1.0,Mallorca,17852.0,Estadio El Sadar,Francisco Hernández,1,1,D
+36.0,Tue,2024-05-14,21:30,Real Madrid,2.5,1.3,Alavés,68954.0,Estadio Santiago Bernabéu,Mateo Busquets,5,0,H
+36.0,Tue,2024-05-14,22:00,Girona,1.6,0.6,Villarreal,11440.0,Estadi Municipal de Montilivi,José Sánchez,0,1,A
+36.0,Wed,2024-05-15,19:30,Rayo Vallecano,2.5,1.2,Granada,12738.0,Estadio del Rayo Vallecano,Isidro Díaz de Mera,2,1,H
+36.0,Wed,2024-05-15,19:30,Sevilla,1.3,2.5,Cádiz,35805.0,Estadio Ramón Sánchez Pizjuán,Miguel Ángel Ortiz Arias,0,1,A
+36.0,Wed,2024-05-15,22:00,Celta Vigo,0.7,0.2,Athletic Club,21301.0,Estadio Abanca Balaídos,Víctor García,2,1,H
+36.0,Wed,2024-05-15,22:00,Getafe,0.6,1.3,Atlético Madrid,13027.0,Coliseum Alfonso Pérez,Mario Melero,0,3,A
+36.0,Thu,2024-05-16,18:30,Las Palmas,2.3,1.3,Betis,22606.0,Estadio de Gran Canaria,Javier Villanueva,2,2,D
+36.0,Thu,2024-05-16,21:30,Almería,0.9,1.6,Barcelona,15543.0,Power Horse Stadium,Javier Alberola,0,2,A
+36.0,Thu,2024-05-16,22:00,Real Sociedad,1.3,0.8,Valencia,25067.0,Reale Arena,César Soto,1,0,H
+37.0,Sat,2024-05-18,21:00,Alavés,1.2,0.3,Getafe,18709.0,Estadio de Mendizorroza,Jorge Figueroa,1,0,H
+37.0,Sun,2024-05-19,19:00,Villarreal,1.7,1.0,Real Madrid,21671.0,Estadio de la Cerámica,Alejandro Hernández,4,4,D
+37.0,Sun,2024-05-19,19:00,Mallorca,3.0,0.4,Almería,20573.0,Estadi Mallorca Son Moix,Ricardo de Burgos,2,2,D
+37.0,Sun,2024-05-19,19:00,Cádiz,0.9,0.6,Las Palmas,18950.0,Estadio Nuevo Mirandilla,César Soto,0,0,D
+37.0,Sun,2024-05-19,19:00,Betis,1.7,0.4,Real Sociedad,58036.0,Estadio Benito Villamarín,Juan Martínez,0,2,A
+37.0,Sun,2024-05-19,19:00,Barcelona,1.3,1.3,Rayo Vallecano,35823.0,Estadi Olímpic Lluís Companys,Jesús Gil,3,0,H
+37.0,Sun,2024-05-19,19:00,Valencia,3.2,2.6,Girona,36138.0,Estadio de Mestalla,Guillermo Cuadra,1,3,A
+37.0,Sun,2024-05-19,19:00,Atlético Madrid,1.6,1.8,Osasuna,58401.0,Estadio Cívitas Metropolitano,Pablo González,1,4,A
+37.0,Sun,2024-05-19,19:00,Granada,1.9,1.7,Celta Vigo,11473.0,Estadio Nuevo Los Cármenes,Javier Alberola,1,2,A
+37.0,Sun,2024-05-19,19:00,Athletic Club,1.6,0.9,Sevilla,44717.0,San Mamés,Juan Pulido,2,0,H
+38.0,Fri,2024-05-24,21:00,Girona,4.6,1.0,Granada,12813.0,Estadi Municipal de Montilivi,Alejandro Muñíz,7,0,H
+38.0,Sat,2024-05-25,14:00,Osasuna,0.9,1.6,Villarreal,18385.0,Estadio El Sadar,Mario Melero,1,1,D
+38.0,Sat,2024-05-25,16:15,Real Sociedad,0.6,2.2,Atlético Madrid,30678.0,Reale Arena,José Sánchez,0,2,A
+38.0,Sat,2024-05-25,18:30,Almería,2.9,0.5,Cádiz,7558.0,Power Horse Stadium,Mateo Busquets,6,1,H
+38.0,Sat,2024-05-25,18:30,Rayo Vallecano,1.1,0.9,Athletic Club,13090.0,Estadio del Rayo Vallecano,José Luis Munuera,0,1,A
+38.0,Sat,2024-05-25,21:00,Real Madrid,1.0,0.7,Betis,73614.0,Estadio Santiago Bernabéu,Isidro Díaz de Mera,0,0,D
+38.0,Sun,2024-05-26,14:00,Getafe,0.9,1.4,Mallorca,9545.0,Coliseum Alfonso Pérez,Víctor García,1,2,A
+38.0,Sun,2024-05-26,15:15,Las Palmas,1.0,2.5,Alavés,23043.0,Estadio de Gran Canaria,Francisco Hernández,1,1,D
+38.0,Sun,2024-05-26,16:15,Celta Vigo,1.5,2.0,Valencia,21878.0,Estadio Abanca Balaídos,Miguel Ángel Ortiz Arias,2,2,D
+38.0,Sun,2024-05-26,21:00,Sevilla,1.5,1.3,Barcelona,34888.0,Estadio Ramón Sánchez Pizjuán,Javier Villanueva,1,2,A
+1.0,Thu,2024-08-15,19:00,Athletic Club,0.3,0.8,Getafe,47845.0,San Mamés,Alejandro Muñíz,1,1,D
+1.0,Thu,2024-08-15,21:30,Betis,1.4,1.6,Girona,54084.0,Estadio Benito Villamarín,Miguel Ángel Ortiz Arias,1,1,D
+1.0,Fri,2024-08-16,19:00,Celta Vigo,0.8,1.6,Alavés,22477.0,Estadio Abanca Balaídos,Alejandro Quintero,2,1,H
+1.0,Fri,2024-08-16,20:30,Las Palmas,1.4,1.8,Sevilla,24843.0,Estadio de Gran Canaria,Francisco Hernández,2,2,D
+1.0,Sat,2024-08-17,19:00,Osasuna,1.7,1.0,Leganés,19561.0,Estadio El Sadar,Juan Pulido,1,1,D
+1.0,Sat,2024-08-17,21:30,Valencia,1.0,3.2,Barcelona,46673.0,Estadio de Mestalla,Jose Maria Sánchez,1,2,A
+1.0,Sun,2024-08-18,19:00,Real Sociedad,1.1,1.1,Rayo Vallecano,31763.0,Reale Arena,Alejandro Hernández,1,2,A
+1.0,Sun,2024-08-18,21:30,Mallorca,1.0,0.6,Real Madrid,23010.0,Estadi Mallorca Son Moix,César Soto,1,1,D
+1.0,Mon,2024-08-19,19:00,Valladolid,0.8,0.7,Espanyol,22027.0,Estadio Municipal José Zorrilla,Pablo González,1,0,H
+1.0,Mon,2024-08-19,21:30,Villarreal,0.8,1.1,Atlético Madrid,21566.0,Estadio de la Cerámica,Guillermo Cuadra,2,2,D
+2.0,Fri,2024-08-23,19:00,Celta Vigo,1.3,0.9,Valencia,23519.0,Estadio Abanca Balaídos,José Luis Munuera,3,1,H
+2.0,Fri,2024-08-23,21:30,Sevilla,1.0,0.9,Villarreal,34004.0,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera,1,2,A
+2.0,Sat,2024-08-24,17:00,Osasuna,0.6,0.6,Mallorca,19900.0,Estadio El Sadar,Adrián Cordero,1,0,H
+2.0,Sat,2024-08-24,19:00,Barcelona,1.8,1.0,Athletic Club,46448.0,Estadi Olímpic Lluís Companys,Jesús Gil,2,1,H
+2.0,Sat,2024-08-24,21:30,Getafe,0.5,0.2,Rayo Vallecano,9529.0,Coliseum Alfonso Pérez,Javier Alberola,0,0,D
+2.0,Sat,2024-08-24,21:30,Espanyol,1.6,0.7,Real Sociedad,20900.0,RCDE Stadium,Mario Melero,0,1,A
+2.0,Sun,2024-08-25,17:00,Real Madrid,2.1,0.4,Valladolid,70178.0,Estadio Santiago Bernabéu,Víctor García,3,0,H
+2.0,Sun,2024-08-25,19:00,Leganés,1.5,0.9,Las Palmas,10052.0,Estadio Municipal de Butarque,Ricardo de Burgos,2,1,H
+2.0,Sun,2024-08-25,19:15,Alavés,0.2,1.5,Betis,16623.0,Estadio de Mendizorroza,Mateo Busquets,0,0,D
+2.0,Sun,2024-08-25,21:30,Atlético Madrid,1.2,0.7,Girona,60414.0,Riyadh Air Metropolitan Stadium,Juan Martínez,3,0,H
+3.0,Mon,2024-08-26,21:30,Villarreal,3.6,2.7,Celta Vigo,19651.0,Estadio de la Cerámica,Miguel Ángel Ortiz Arias,4,3,H
+3.0,Tue,2024-08-27,19:00,Mallorca,0.9,0.7,Sevilla,20470.0,Estadi Mallorca Son Moix,Alejandro Muñíz,0,0,D
+3.0,Tue,2024-08-27,21:30,Rayo Vallecano,0.4,1.4,Barcelona,14031.0,Campo de Fútbol de Vallecas,César Soto,1,2,A
+3.0,Wed,2024-08-28,19:00,Athletic Club,1.4,0.1,Valencia,48644.0,San Mamés,Pablo González,1,0,H
+3.0,Wed,2024-08-28,19:00,Valladolid,1.1,0.2,Leganés,21764.0,Estadio Municipal José Zorrilla,Alejandro Quintero,0,0,D
+3.0,Wed,2024-08-28,21:30,Atlético Madrid,2.3,0.6,Espanyol,56669.0,Riyadh Air Metropolitan Stadium,Ricardo de Burgos,0,0,D
+3.0,Wed,2024-08-28,21:30,Real Sociedad,1.0,1.6,Alavés,32220.0,Reale Arena,Jose Maria Sánchez,1,2,A
+3.0,Thu,2024-08-29,19:00,Girona,2.4,0.0,Osasuna,13275.0,Estadi Municipal de Montilivi,Francisco Hernández,4,0,H
+3.0,Thu,2024-08-29,20:30,Las Palmas,0.8,2.5,Real Madrid,31192.0,Estadio de Gran Canaria,Mateo Busquets,1,1,D
+4.0,Sat,2024-08-31,17:00,Barcelona,4.7,0.5,Valladolid,44359.0,Estadi Olímpic Lluís Companys,Isidro Díaz de Mera,7,0,H
+4.0,Sat,2024-08-31,19:00,Athletic Club,0.3,1.7,Atlético Madrid,48617.0,San Mamés,Alejandro Hernández,0,1,A
+4.0,Sat,2024-08-31,19:15,Espanyol,1.6,1.3,Rayo Vallecano,22405.0,RCDE Stadium,Adrián Cordero,2,1,H
+4.0,Sat,2024-08-31,21:30,Valencia,1.1,0.5,Villarreal,43857.0,Estadio de Mestalla,Jesús Gil,1,1,D
+4.0,Sat,2024-08-31,21:30,Leganés,0.3,1.0,Mallorca,10482.0,Estadio Municipal de Butarque,Mario Melero,0,1,A
+4.0,Sun,2024-09-01,17:00,Alavés,2.0,0.7,Las Palmas,16386.0,Estadio de Mendizorroza,Víctor García,2,0,H
+4.0,Sun,2024-09-01,17:00,Osasuna,0.9,1.7,Celta Vigo,19908.0,Estadio El Sadar,Juan Martínez,3,2,H
+4.0,Sun,2024-09-01,19:00,Sevilla,0.9,1.9,Girona,35735.0,Estadio Ramón Sánchez Pizjuán,Jose Maria Sánchez,0,2,A
+4.0,Sun,2024-09-01,19:15,Getafe,0.6,0.0,Real Sociedad,10929.0,Coliseum Alfonso Pérez,José Luis Munuera,0,0,D
+4.0,Sun,2024-09-01,21:30,Real Madrid,2.4,0.6,Betis,73072.0,Estadio Santiago Bernabéu,Javier Alberola,2,0,H
+5.0,Fri,2024-09-13,21:00,Betis,2.1,0.1,Leganés,48089.0,Estadio Benito Villamarín,Pablo González,2,0,H
+5.0,Sat,2024-09-14,14:00,Mallorca,0.3,1.8,Villarreal,18303.0,Estadi Mallorca Son Moix,Ricardo de Burgos,1,2,A
+5.0,Sat,2024-09-14,16:15,Espanyol,1.6,1.9,Alavés,24238.0,RCDE Stadium,Juan Pulido,3,2,H
+5.0,Sat,2024-09-14,18:30,Sevilla,1.4,1.0,Getafe,32643.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets,1,0,H
+5.0,Sat,2024-09-14,21:00,Real Sociedad,1.1,2.3,Real Madrid,37370.0,Reale Arena,Juan Martínez,0,2,A
+5.0,Sun,2024-09-15,14:00,Celta Vigo,1.8,0.5,Valladolid,21670.0,Estadio Abanca Balaídos,Francisco Hernández,3,1,H
+5.0,Sun,2024-09-15,16:15,Girona,1.3,1.9,Barcelona,13891.0,Estadi Municipal de Montilivi,Alejandro Muñíz,1,4,A
+5.0,Sun,2024-09-15,17:30,Las Palmas,1.4,1.7,Athletic Club,25908.0,Estadio de Gran Canaria,Miguel Ángel Ortiz Arias,2,3,A
+5.0,Sun,2024-09-15,21:00,Atlético Madrid,3.1,0.1,Valencia,61752.0,Riyadh Air Metropolitan Stadium,César Soto,3,0,H
+5.0,Mon,2024-09-16,21:00,Rayo Vallecano,1.6,0.3,Osasuna,13073.0,Campo de Fútbol de Vallecas,Alejandro Quintero,3,1,H
+7.0,Tue,2024-09-17,19:00,Mallorca,1.2,0.6,Real Sociedad,17132.0,Estadi Mallorca Son Moix,Adrián Cordero,1,0,H
+3.0,Wed,2024-09-18,19:00,Betis,2.6,0.6,Getafe,48547.0,Estadio Benito Villamarín,Juan Pulido,2,1,H
+7.0,Thu,2024-09-19,19:00,Leganés,0.9,1.3,Athletic Club,8304.0,Estadio Municipal de Butarque,Francisco Hernández,0,2,A
+6.0,Fri,2024-09-20,21:00,Alavés,1.1,0.5,Sevilla,16538.0,Estadio de Mendizorroza,Javier Alberola,2,1,H
+6.0,Sat,2024-09-21,14:00,Valladolid,1.0,1.4,Real Sociedad,21171.0,Estadio Municipal José Zorrilla,Guillermo Cuadra,0,0,D
+6.0,Sat,2024-09-21,16:15,Osasuna,1.9,0.8,Las Palmas,19043.0,Estadio El Sadar,Isidro Díaz de Mera,2,1,H
+6.0,Sat,2024-09-21,18:30,Valencia,0.4,0.4,Girona,40896.0,Estadio de Mestalla,Alejandro Hernández,2,0,H
+6.0,Sat,2024-09-21,21:00,Real Madrid,4.4,0.3,Espanyol,17284.0,Estadio Santiago Bernabéu,José Luis Munuera,4,1,H
+6.0,Sun,2024-09-22,14:00,Getafe,1.5,0.6,Leganés,13060.0,Coliseum Alfonso Pérez,Adrián Cordero,1,1,D
+6.0,Sun,2024-09-22,16:15,Athletic Club,0.7,1.3,Celta Vigo,48737.0,San Mamés,Jose Maria Sánchez,3,1,H
+6.0,Sun,2024-09-22,18:30,Villarreal,2.2,3.9,Barcelona,22048.0,Estadio de la Cerámica,Mateo Busquets,1,5,A
+6.0,Sun,2024-09-22,21:00,Rayo Vallecano,1.7,0.5,Atlético Madrid,13646.0,Campo de Fútbol de Vallecas,Mario Melero,1,1,D
+6.0,Mon,2024-09-23,21:00,Betis,1.0,1.0,Mallorca,47017.0,Estadio Benito Villamarín,Víctor García,1,2,A
+7.0,Tue,2024-09-24,19:00,Sevilla,2.1,0.7,Valladolid,35292.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido,2,1,H
+7.0,Tue,2024-09-24,19:00,Valencia,0.7,0.5,Osasuna,40425.0,Estadio de Mestalla,Miguel Ángel Ortiz Arias,0,0,D
+7.0,Tue,2024-09-24,21:00,Real Madrid,1.3,0.9,Alavés,67480.0,Estadio Santiago Bernabéu,Alejandro Muñíz,3,2,H
+7.0,Wed,2024-09-25,19:00,Girona,2.0,0.5,Rayo Vallecano,12272.0,Estadi Municipal de Montilivi,Juan Martínez,0,0,D
+7.0,Wed,2024-09-25,21:00,Barcelona,1.9,0.7,Getafe,44407.0,Estadi Olímpic Lluís Companys,Pablo González,1,0,H
+7.0,Thu,2024-09-26,18:00,Las Palmas,1.0,1.9,Betis,22722.0,Estadio de Gran Canaria,Jose Maria Sánchez,1,1,D
+7.0,Thu,2024-09-26,19:00,Espanyol,0.4,1.6,Villarreal,23147.0,RCDE Stadium,Alejandro Quintero,1,2,A
+7.0,Thu,2024-09-26,21:00,Celta Vigo,1.5,0.6,Atlético Madrid,21533.0,Estadio Abanca Balaídos,Víctor García,0,1,A
+8.0,Fri,2024-09-27,21:00,Valladolid,1.2,2.2,Mallorca,20388.0,Estadio Municipal José Zorrilla,José Luis Munuera,1,2,A
+8.0,Sat,2024-09-28,14:00,Getafe,2.1,0.5,Alavés,10006.0,Coliseum Alfonso Pérez,Isidro Díaz de Mera,2,0,H
+8.0,Sat,2024-09-28,16:15,Rayo Vallecano,0.9,0.9,Leganés,13186.0,Campo de Fútbol de Vallecas,Alejandro Muñíz,1,1,D
+8.0,Sat,2024-09-28,18:30,Real Sociedad,3.4,0.8,Valencia,32332.0,Reale Arena,Javier Alberola,3,0,H
+8.0,Sat,2024-09-28,21:00,Osasuna,2.2,0.8,Barcelona,22322.0,Estadio El Sadar,Guillermo Cuadra,4,2,H
+8.0,Sun,2024-09-29,14:00,Celta Vigo,0.5,0.8,Girona,21347.0,Estadio Abanca Balaídos,Ricardo de Burgos,1,1,D
+8.0,Sun,2024-09-29,16:15,Athletic Club,2.0,1.1,Sevilla,48288.0,San Mamés,César Soto,1,1,D
+8.0,Sun,2024-09-29,18:30,Betis,2.1,0.5,Espanyol,53065.0,Estadio Benito Villamarín,Alejandro Hernández,1,0,H
+8.0,Sun,2024-09-29,21:00,Atlético Madrid,1.3,0.8,Real Madrid,70112.0,Riyadh Air Metropolitan Stadium,Mateo Busquets,1,1,D
+8.0,Mon,2024-09-30,21:00,Villarreal,2.8,0.9,Las Palmas,18159.0,Estadio de la Cerámica,Mario Melero,3,1,H
+9.0,Fri,2024-10-04,21:00,Leganés,0.8,0.5,Valencia,10958.0,Estadio Municipal de Butarque,Alejandro Quintero,0,0,D
+9.0,Sat,2024-10-05,14:00,Espanyol,0.9,1.6,Mallorca,24434.0,RCDE Stadium,Francisco Hernández,2,1,H
+9.0,Sat,2024-10-05,16:15,Getafe,0.8,0.3,Osasuna,10670.0,Coliseum Alfonso Pérez,Jose Maria Sánchez,1,1,D
+9.0,Sat,2024-10-05,17:30,Las Palmas,1.3,0.8,Celta Vigo,21482.0,Estadio de Gran Canaria,Adrián Cordero,0,1,A
+9.0,Sat,2024-10-05,18:30,Valladolid,2.0,1.5,Rayo Vallecano,21112.0,Estadio Municipal José Zorrilla,Pablo González,1,2,A
+9.0,Sat,2024-10-05,21:00,Real Madrid,0.5,1.1,Villarreal,73842.0,Estadio Santiago Bernabéu,Guillermo Cuadra,2,0,H
+9.0,Sun,2024-10-06,14:00,Girona,1.9,3.1,Athletic Club,13396.0,Estadi Municipal de Montilivi,Juan Pulido,2,1,H
+9.0,Sun,2024-10-06,16:15,Alavés,0.7,2.7,Barcelona,19468.0,Estadio de Mendizorroza,Miguel Ángel Ortiz Arias,0,3,A
+9.0,Sun,2024-10-06,18:30,Sevilla,1.4,0.6,Betis,42571.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,1,0,H
+9.0,Sun,2024-10-06,21:00,Real Sociedad,1.0,0.5,Atlético Madrid,31983.0,Reale Arena,Isidro Díaz de Mera,1,1,D
+10.0,Fri,2024-10-18,21:00,Alavés,0.5,2.4,Valladolid,16904.0,Estadio de Mendizorroza,Mario Melero,2,3,A
+10.0,Sat,2024-10-19,14:00,Athletic Club,1.3,0.2,Espanyol,46713.0,San Mamés,Mateo Busquets,4,1,H
+10.0,Sat,2024-10-19,16:15,Osasuna,2.0,2.1,Betis,21045.0,Estadio El Sadar,Alejandro Muñíz,1,2,A
+10.0,Sat,2024-10-19,18:30,Girona,0.4,1.7,Real Sociedad,12602.0,Estadi Municipal de Montilivi,César Soto,0,1,A
+10.0,Sat,2024-10-19,21:00,Celta Vigo,1.8,0.7,Real Madrid,24445.0,Estadio Abanca Balaídos,Alejandro Hernández,1,2,A
+10.0,Sun,2024-10-20,14:00,Mallorca,2.0,0.6,Rayo Vallecano,18316.0,Estadi Mallorca Son Moix,Javier Alberola,1,0,H
+10.0,Sun,2024-10-20,16:15,Atlético Madrid,4.4,0.3,Leganés,60122.0,Riyadh Air Metropolitan Stadium,José Luis Munuera,3,1,H
+10.0,Sun,2024-10-20,18:30,Villarreal,0.9,1.9,Getafe,19355.0,Estadio de la Cerámica,Víctor García,1,1,D
+10.0,Sun,2024-10-20,21:00,Barcelona,3.8,1.0,Sevilla,47848.0,Estadi Olímpic Lluís Companys,Ricardo de Burgos,5,1,H
+10.0,Mon,2024-10-21,21:00,Valencia,1.6,1.2,Las Palmas,42453.0,Estadio de Mestalla,Jesús Gil,2,3,A
+11.0,Fri,2024-10-25,21:00,Espanyol,1.2,0.8,Sevilla,23656.0,RCDE Stadium,Miguel Ángel Ortiz Arias,0,2,A
+11.0,Sat,2024-10-26,14:00,Valladolid,0.9,2.0,Villarreal,20178.0,Estadio Municipal José Zorrilla,Francisco Hernández,1,2,A
+11.0,Sat,2024-10-26,16:15,Rayo Vallecano,1.9,0.9,Alavés,13010.0,Campo de Fútbol de Vallecas,Adrián Cordero,1,0,H
+11.0,Sat,2024-10-26,17:30,Las Palmas,0.9,0.6,Girona,21506.0,Estadio de Gran Canaria,Alejandro Quintero,1,0,H
+11.0,Sat,2024-10-26,21:00,Real Madrid,1.5,2.6,Barcelona,78192.0,Estadio Santiago Bernabéu,Jose Maria Sánchez,0,4,A
+11.0,Sun,2024-10-27,14:00,Leganés,1.6,0.9,Celta Vigo,11358.0,Estadio Municipal de Butarque,Mario Melero,3,0,H
+11.0,Sun,2024-10-27,16:15,Getafe,2.2,0.7,Valencia,12412.0,Coliseum Alfonso Pérez,Guillermo Cuadra,1,1,D
+11.0,Sun,2024-10-27,18:30,Betis,1.9,0.5,Atlético Madrid,52621.0,Estadio Benito Villamarín,Jesús Gil,1,0,H
+11.0,Sun,2024-10-27,21:00,Real Sociedad,1.6,1.0,Osasuna,31729.0,Reale Arena,Juan Pulido,0,2,A
+11.0,Mon,2024-10-28,21:00,Mallorca,0.5,0.6,Athletic Club,19797.0,Estadi Mallorca Son Moix,Juan Martínez,0,0,D
+12.0,Fri,2024-11-01,21:00,Alavés,1.1,0.5,Mallorca,17212.0,Estadio de Mendizorroza,Pablo González,1,0,H
+12.0,Sat,2024-11-02,14:00,Osasuna,2.2,0.2,Valladolid,20430.0,Estadio El Sadar,Víctor García,1,0,H
+12.0,Sat,2024-11-02,16:15,Girona,2.0,0.4,Leganés,10839.0,Estadi Municipal de Montilivi,Mateo Busquets,4,3,H
+12.0,Sun,2024-11-03,14:00,Atlético Madrid,1.6,0.0,Las Palmas,56610.0,Riyadh Air Metropolitan Stadium,Ricardo de Burgos,2,0,H
+12.0,Sun,2024-11-03,16:15,Barcelona,1.8,0.9,Espanyol,48843.0,Estadi Olímpic Lluís Companys,José Luis Munuera,3,1,H
+12.0,Sun,2024-11-03,18:30,Sevilla,1.1,1.4,Real Sociedad,37619.0,Estadio Ramón Sánchez Pizjuán,Alejandro Muñíz,0,2,A
+12.0,Sun,2024-11-03,21:00,Athletic Club,4.0,0.9,Betis,46898.0,San Mamés,Javier Alberola,1,1,D
+12.0,Mon,2024-11-04,21:00,Celta Vigo,1.9,0.5,Getafe,19502.0,Estadio Abanca Balaídos,Jesús Gil,1,0,H
+13.0,Fri,2024-11-08,21:00,Rayo Vallecano,2.4,1.1,Las Palmas,12978.0,Campo de Fútbol de Vallecas,Francisco Hernández,1,3,A
+13.0,Sat,2024-11-09,14:00,Real Madrid,3.1,0.1,Osasuna,72462.0,Estadio Santiago Bernabéu,Mario Melero,4,0,H
+13.0,Sat,2024-11-09,16:15,Villarreal,1.5,0.5,Alavés,17659.0,Estadio de la Cerámica,Alejandro Quintero,3,0,H
+13.0,Sat,2024-11-09,21:00,Leganés,1.1,0.6,Sevilla,11167.0,Estadio Municipal de Butarque,Juan Pulido,1,0,H
+13.0,Sun,2024-11-10,14:00,Betis,1.6,1.2,Celta Vigo,54015.0,Estadio Benito Villamarín,Miguel Ángel Ortiz Arias,2,2,D
+13.0,Sun,2024-11-10,16:15,Mallorca,0.6,0.6,Atlético Madrid,19500.0,Estadi Mallorca Son Moix,Jose Maria Sánchez,0,1,A
+13.0,Sun,2024-11-10,18:30,Valladolid,0.6,1.2,Athletic Club,23515.0,Estadio Municipal José Zorrilla,Adrián Cordero,1,1,D
+13.0,Sun,2024-11-10,18:30,Getafe,0.6,0.2,Girona,10923.0,Coliseum Alfonso Pérez,Juan Martínez,0,1,A
+13.0,Sun,2024-11-10,21:00,Real Sociedad,2.0,0.7,Barcelona,36194.0,Reale Arena,Guillermo Cuadra,1,0,H
+14.0,Fri,2024-11-22,21:00,Getafe,0.6,1.1,Valladolid,9991.0,Coliseum Alfonso Pérez,Pablo González,2,0,H
+14.0,Sat,2024-11-23,14:00,Valencia,1.5,1.3,Betis,43975.0,Estadio de Mestalla,Ricardo de Burgos,4,2,H
+14.0,Sat,2024-11-23,16:15,Atlético Madrid,1.6,0.9,Alavés,58910.0,Riyadh Air Metropolitan Stadium,Víctor García,2,1,H
+14.0,Sat,2024-11-23,17:30,Las Palmas,1.2,1.7,Mallorca,22940.0,Estadio de Gran Canaria,Alejandro Muñíz,2,3,A
+14.0,Sat,2024-11-23,18:30,Girona,3.5,0.5,Espanyol,12461.0,Estadi Municipal de Montilivi,Alejandro Hernández,4,1,H
+14.0,Sat,2024-11-23,21:00,Celta Vigo,2.5,1.8,Barcelona,24573.0,Estadio Abanca Balaídos,César Soto,2,2,D
+14.0,Sun,2024-11-24,14:00,Osasuna,1.0,2.5,Villarreal,19795.0,Estadio El Sadar,José Luis Munuera,2,2,D
+14.0,Sun,2024-11-24,16:15,Sevilla,1.1,0.8,Rayo Vallecano,35125.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets,1,0,H
+14.0,Sun,2024-11-24,18:30,Leganés,0.1,1.8,Real Madrid,12338.0,Estadio Municipal de Butarque,Javier Alberola,0,3,A
+14.0,Sun,2024-11-24,21:00,Athletic Club,1.3,0.5,Real Sociedad,50719.0,San Mamés,Jesús Gil,1,0,H
+15.0,Fri,2024-11-29,21:00,Mallorca,0.8,1.3,Valencia,17717.0,Estadi Mallorca Son Moix,Alejandro Quintero,2,1,H
+15.0,Sat,2024-11-30,14:00,Barcelona,2.3,0.5,Las Palmas,43921.0,Estadi Olímpic Lluís Companys,Adrián Cordero,1,2,A
+15.0,Sat,2024-11-30,16:15,Alavés,1.1,0.9,Leganés,16881.0,Estadio de Mendizorroza,Isidro Díaz de Mera,1,1,D
+15.0,Sat,2024-11-30,18:30,Espanyol,0.9,1.6,Celta Vigo,23792.0,RCDE Stadium,Jose Maria Sánchez,3,1,H
+15.0,Sat,2024-11-30,21:00,Valladolid,0.6,4.0,Atlético Madrid,23482.0,Estadio Municipal José Zorrilla,Guillermo Cuadra,0,5,A
+15.0,Sun,2024-12-01,14:00,Villarreal,2.0,0.5,Girona,17732.0,Estadio de la Cerámica,Miguel Ángel Ortiz Arias,2,2,D
+15.0,Sun,2024-12-01,16:15,Real Madrid,3.2,0.5,Getafe,74341.0,Estadio Santiago Bernabéu,Alejandro Hernández,2,0,H
+15.0,Sun,2024-12-01,18:30,Rayo Vallecano,0.2,0.7,Athletic Club,13639.0,Campo de Fútbol de Vallecas,Mario Melero,1,2,A
+15.0,Sun,2024-12-01,21:00,Real Sociedad,0.8,0.4,Betis,28119.0,Reale Arena,Francisco Hernández,2,0,H
+15.0,Mon,2024-12-02,21:00,Sevilla,1.3,0.7,Osasuna,31536.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,1,1,D
+19.0,Tue,2024-12-03,19:00,Mallorca,0.9,5.0,Barcelona,22352.0,Estadi Mallorca Son Moix,Jesús Gil,1,5,A
+19.0,Wed,2024-12-04,21:00,Athletic Club,1.8,1.7,Real Madrid,51364.0,San Mamés,Jose Maria Sánchez,2,1,H
+16.0,Fri,2024-12-06,21:00,Celta Vigo,0.9,0.8,Mallorca,22861.0,Estadio Abanca Balaídos,Ricardo de Burgos,2,0,H
+16.0,Sat,2024-12-07,13:00,Las Palmas,1.1,1.3,Valladolid,21610.0,Estadio de Gran Canaria,Isidro Díaz de Mera,2,1,H
+16.0,Sat,2024-12-07,16:15,Betis,3.1,1.9,Barcelona,51749.0,Estadio Benito Villamarín,Alejandro Muñíz,2,2,D
+16.0,Sat,2024-12-07,18:30,Valencia,1.3,0.9,Rayo Vallecano,40968.0,Estadio de Mestalla,José Luis Munuera,0,1,A
+16.0,Sat,2024-12-07,21:00,Girona,0.4,0.9,Real Madrid,13827.0,Estadi Municipal de Montilivi,Jesús Gil,0,3,A
+16.0,Sun,2024-12-08,14:00,Leganés,0.7,1.8,Real Sociedad,11312.0,Estadio Municipal de Butarque,Pablo González,0,3,A
+16.0,Sun,2024-12-08,16:15,Athletic Club,1.2,0.8,Villarreal,47203.0,San Mamés,Víctor García,2,0,H
+16.0,Sun,2024-12-08,18:30,Osasuna,1.8,1.3,Alavés,18220.0,Estadio El Sadar,César Soto,2,2,D
+16.0,Sun,2024-12-08,21:00,Atlético Madrid,2.0,0.4,Sevilla,60065.0,Riyadh Air Metropolitan Stadium,Javier Alberola,4,3,H
+16.0,Mon,2024-12-09,21:00,Getafe,0.4,0.7,Espanyol,7559.0,Coliseum Alfonso Pérez,Mateo Busquets,1,0,H
+17.0,Fri,2024-12-13,21:00,Valladolid,0.6,0.8,Valencia,18449.0,Estadio Municipal José Zorrilla,Miguel Ángel Ortiz Arias,1,0,H
+17.0,Sat,2024-12-14,14:00,Espanyol,0.3,0.3,Osasuna,20513.0,RCDE Stadium,Adrián Cordero,0,0,D
+17.0,Sat,2024-12-14,16:15,Mallorca,1.2,0.8,Girona,15866.0,Estadi Mallorca Son Moix,Francisco Hernández,2,1,H
+17.0,Sat,2024-12-14,18:30,Sevilla,0.7,1.2,Celta Vigo,37295.0,Estadio Ramón Sánchez Pizjuán,Jesús Gil,1,0,H
+17.0,Sat,2024-12-14,21:00,Rayo Vallecano,1.6,0.7,Real Madrid,14168.0,Campo de Fútbol de Vallecas,Juan Martínez,3,3,D
+17.0,Sun,2024-12-15,14:00,Atlético Madrid,1.7,0.2,Getafe,60169.0,Riyadh Air Metropolitan Stadium,César Soto,1,0,H
+17.0,Sun,2024-12-15,16:15,Alavés,0.9,0.7,Athletic Club,19239.0,Estadio de Mendizorroza,Jose Maria Sánchez,1,1,D
+17.0,Sun,2024-12-15,18:30,Real Sociedad,1.1,1.0,Las Palmas,30775.0,Reale Arena,Mario Melero,0,0,D
+17.0,Sun,2024-12-15,18:30,Villarreal,1.9,0.8,Betis,18757.0,Estadio de la Cerámica,Guillermo Cuadra,1,2,A
+17.0,Sun,2024-12-15,21:00,Barcelona,2.6,0.4,Leganés,39523.0,Estadi Olímpic Lluís Companys,Alejandro Quintero,0,1,A
+12.0,Wed,2024-12-18,21:30,Villarreal,1.4,1.5,Rayo Vallecano,14000.0,Estadio de la Cerámica,Alejandro Hernández,1,1,D
+13.0,Wed,2024-12-18,21:30,Espanyol,2.1,2.0,Valencia,18122.0,RCDE Stadium,Pablo González,1,1,D
+18.0,Fri,2024-12-20,21:00,Girona,2.5,0.0,Valladolid,9534.0,Estadi Municipal de Montilivi,Pablo González,3,0,H
+18.0,Sat,2024-12-21,14:00,Getafe,0.8,2.3,Mallorca,9747.0,Coliseum Alfonso Pérez,José Luis Munuera,0,1,A
+18.0,Sat,2024-12-21,16:15,Celta Vigo,1.3,0.3,Real Sociedad,22956.0,Estadio Abanca Balaídos,Mateo Busquets,2,0,H
+18.0,Sat,2024-12-21,18:30,Osasuna,0.6,1.2,Athletic Club,22030.0,Estadio El Sadar,Alejandro Quintero,1,2,A
+18.0,Sat,2024-12-21,21:00,Barcelona,2.7,0.7,Atlético Madrid,46249.0,Estadi Olímpic Lluís Companys,Ricardo de Burgos,1,2,A
+18.0,Sun,2024-12-22,14:00,Valencia,1.5,1.6,Alavés,37586.0,Estadio de Mestalla,Javier Alberola,2,2,D
+18.0,Sun,2024-12-22,16:15,Real Madrid,2.0,1.3,Sevilla,75227.0,Estadio Santiago Bernabéu,Isidro Díaz de Mera,4,2,H
+18.0,Sun,2024-12-22,17:30,Las Palmas,0.9,0.7,Espanyol,23743.0,Estadio de Gran Canaria,César Soto,1,0,H
+18.0,Sun,2024-12-22,18:30,Leganés,1.2,3.3,Villarreal,11034.0,Estadio Municipal de Butarque,Alejandro Muñíz,2,5,A
+18.0,Sun,2024-12-22,21:00,Betis,2.1,0.9,Rayo Vallecano,53121.0,Estadio Benito Villamarín,Víctor García,1,1,D
+12.0,Fri,2025-01-03,21:00,Valencia,1.3,2.7,Real Madrid,46420.0,Estadio de Mestalla,César Soto,1,2,A
+19.0,Fri,2025-01-10,21:00,Rayo Vallecano,0.7,2.1,Celta Vigo,12955.0,Campo de Fútbol de Vallecas,Guillermo Cuadra,2,1,H
+19.0,Sat,2025-01-11,14:00,Alavés,1.3,0.5,Girona,16454.0,Estadio de Mendizorroza,Mateo Busquets,0,1,A
+19.0,Sat,2025-01-11,16:15,Valladolid,1.2,0.7,Betis,21911.0,Estadio Municipal José Zorrilla,Adrián Cordero,1,0,H
+19.0,Sat,2025-01-11,18:30,Espanyol,0.7,2.0,Leganés,26606.0,RCDE Stadium,Juan Martínez,1,1,D
+19.0,Sat,2025-01-11,21:00,Sevilla,0.5,0.7,Valencia,34297.0,Estadio Ramón Sánchez Pizjuán,Francisco Hernández,1,1,D
+19.0,Sun,2025-01-12,13:00,Las Palmas,1.3,1.1,Getafe,23698.0,Estadio de Gran Canaria,Javier Alberola,1,2,A
+19.0,Sun,2025-01-12,16:15,Atlético Madrid,2.5,0.3,Osasuna,64801.0,Riyadh Air Metropolitan Stadium,Isidro Díaz de Mera,1,0,H
+19.0,Mon,2025-01-13,21:00,Real Sociedad,0.8,1.2,Villarreal,20855.0,Reale Arena,César Soto,1,0,H
+20.0,Fri,2025-01-17,21:00,Espanyol,1.0,1.2,Valladolid,23554.0,RCDE Stadium,Ricardo de Burgos,2,1,H
+20.0,Sat,2025-01-18,14:00,Girona,1.0,2.6,Sevilla,12040.0,Estadi Municipal de Montilivi,Juan Martínez,1,2,A
+20.0,Sat,2025-01-18,16:15,Leganés,0.5,2.4,Atlético Madrid,12371.0,Estadio Municipal de Butarque,Mario Melero,1,0,H
+20.0,Sat,2025-01-18,18:30,Betis,0.5,1.5,Alavés,50021.0,Estadio Benito Villamarín,Alejandro Hernández,1,3,A
+20.0,Sat,2025-01-18,21:00,Getafe,1.3,2.3,Barcelona,15134.0,Coliseum Alfonso Pérez,Pablo González,1,1,D
+20.0,Sun,2025-01-19,14:00,Celta Vigo,0.6,1.8,Athletic Club,22279.0,Estadio Abanca Balaídos,Miguel Ángel Ortiz Arias,1,2,A
+20.0,Sun,2025-01-19,16:15,Real Madrid,5.9,1.1,Las Palmas,74808.0,Estadio Santiago Bernabéu,Alejandro Quintero,4,1,H
+20.0,Sun,2025-01-19,18:30,Osasuna,0.8,0.8,Rayo Vallecano,20770.0,Estadio El Sadar,Alejandro Muñíz,1,1,D
+20.0,Sun,2025-01-19,21:00,Valencia,1.6,0.8,Real Sociedad,40791.0,Estadio de Mestalla,Víctor García,1,0,H
+20.0,Mon,2025-01-20,21:00,Villarreal,2.4,0.5,Mallorca,14852.0,Estadio de la Cerámica,José Luis Munuera,4,0,H
+21.0,Fri,2025-01-24,20:00,Las Palmas,0.8,2.6,Osasuna,19762.0,Estadio de Gran Canaria,Jesús Gil,1,1,D
+21.0,Sat,2025-01-25,14:00,Mallorca,1.0,0.4,Betis,19452.0,Estadi Mallorca Son Moix,Javier Alberola,0,1,A
+21.0,Sat,2025-01-25,16:15,Atlético Madrid,1.7,2.2,Villarreal,63596.0,Riyadh Air Metropolitan Stadium,Jose Maria Sánchez,1,1,D
+21.0,Sat,2025-01-25,18:30,Sevilla,1.2,0.7,Espanyol,33602.0,Estadio Ramón Sánchez Pizjuán,Adrián Cordero,1,1,D
+21.0,Sat,2025-01-25,21:00,Valladolid,0.2,2.0,Real Madrid,26025.0,Estadio Municipal José Zorrilla,Mateo Busquets,0,3,A
+21.0,Sun,2025-01-26,14:00,Rayo Vallecano,2.4,1.0,Girona,12405.0,Campo de Fútbol de Vallecas,Isidro Díaz de Mera,2,1,H
+21.0,Sun,2025-01-26,16:15,Real Sociedad,0.9,1.4,Getafe,30004.0,Reale Arena,Guillermo Cuadra,0,3,A
+21.0,Sun,2025-01-26,18:30,Athletic Club,2.1,1.0,Leganés,47612.0,San Mamés,Alejandro Hernández,0,0,D
+21.0,Sun,2025-01-26,21:00,Barcelona,4.4,1.5,Valencia,45312.0,Estadi Olímpic Lluís Companys,César Soto,7,1,H
+21.0,Mon,2025-01-27,21:00,Alavés,0.9,0.1,Celta Vigo,13612.0,Estadio de Mendizorroza,Francisco Hernández,1,1,D
+22.0,Fri,2025-01-31,21:00,Leganés,0.9,2.2,Rayo Vallecano,11432.0,Estadio Municipal de Butarque,Alejandro Quintero,0,1,A
+22.0,Sat,2025-02-01,14:00,Getafe,1.0,0.9,Sevilla,11730.0,Coliseum Alfonso Pérez,Ricardo de Burgos,0,0,D
+22.0,Sat,2025-02-01,16:15,Villarreal,3.5,0.5,Valladolid,17032.0,Estadio de la Cerámica,Isidro Díaz de Mera,5,1,H
+22.0,Sat,2025-02-01,18:30,Atlético Madrid,1.3,0.5,Mallorca,60710.0,Riyadh Air Metropolitan Stadium,Víctor García,2,0,H
+22.0,Sat,2025-02-01,21:00,Espanyol,0.3,1.3,Real Madrid,33669.0,RCDE Stadium,Alejandro Muñíz,1,0,H
+22.0,Sun,2025-02-02,14:00,Barcelona,1.0,0.1,Alavés,42900.0,Estadi Olímpic Lluís Companys,José Luis Munuera,1,0,H
+22.0,Sun,2025-02-02,16:15,Valencia,1.6,0.4,Celta Vigo,42273.0,Estadio de Mestalla,Pablo González,2,1,H
+22.0,Sun,2025-02-02,18:30,Osasuna,0.7,2.0,Real Sociedad,21678.0,Estadio El Sadar,Miguel Ángel Ortiz Arias,2,1,H
+22.0,Sun,2025-02-02,21:00,Betis,1.1,1.4,Athletic Club,49292.0,Estadio Benito Villamarín,Juan Martínez,2,2,D
+22.0,Mon,2025-02-03,21:00,Girona,2.0,1.5,Las Palmas,10088.0,Estadi Municipal de Montilivi,Mario Melero,2,1,H
+23.0,Fri,2025-02-07,21:00,Rayo Vallecano,2.3,0.4,Valladolid,12286.0,Campo de Fútbol de Vallecas,Jesús Gil,1,0,H
+23.0,Sat,2025-02-08,14:00,Celta Vigo,2.2,1.3,Betis,22651.0,Estadio Abanca Balaídos,Mateo Busquets,3,2,H
+23.0,Sat,2025-02-08,16:15,Athletic Club,3.6,0.1,Girona,48261.0,San Mamés,Jose Maria Sánchez,3,0,H
+23.0,Sat,2025-02-08,17:30,Las Palmas,1.4,0.9,Villarreal,22909.0,Estadio de Gran Canaria,Francisco Hernández,1,2,A
+23.0,Sat,2025-02-08,21:00,Real Madrid,1.6,1.5,Atlético Madrid,78082.0,Estadio Santiago Bernabéu,César Soto,1,1,D
+23.0,Sun,2025-02-09,14:00,Alavés,1.4,0.9,Getafe,16236.0,Estadio de Mendizorroza,Isidro Díaz de Mera,0,1,A
+23.0,Sun,2025-02-09,16:15,Valencia,1.9,0.5,Leganés,42312.0,Estadio de Mestalla,Guillermo Cuadra,2,0,H
+23.0,Sun,2025-02-09,18:30,Real Sociedad,1.7,0.9,Espanyol,29478.0,Reale Arena,Javier Alberola,2,1,H
+23.0,Sun,2025-02-09,21:00,Sevilla,0.7,1.9,Barcelona,38592.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,1,4,A
+23.0,Mon,2025-02-10,21:00,Mallorca,1.3,1.4,Osasuna,15378.0,Estadi Mallorca Son Moix,Adrián Cordero,1,1,D
+24.0,Fri,2025-02-14,21:00,Girona,0.9,0.6,Getafe,10354.0,Estadi Municipal de Montilivi,Alejandro Quintero,1,2,A
+24.0,Sat,2025-02-15,14:00,Leganés,1.8,1.7,Alavés,10681.0,Estadio Municipal de Butarque,Pablo González,3,3,D
+24.0,Sat,2025-02-15,16:15,Osasuna,1.4,1.4,Real Madrid,22390.0,Estadio El Sadar,José Luis Munuera,1,1,D
+24.0,Sat,2025-02-15,18:30,Atlético Madrid,0.6,1.7,Celta Vigo,64211.0,Riyadh Air Metropolitan Stadium,Juan Martínez,1,1,D
+24.0,Sat,2025-02-15,21:00,Villarreal,1.3,1.1,Valencia,19701.0,Estadio de la Cerámica,Ricardo de Burgos,1,1,D
+24.0,Sun,2025-02-16,14:00,Espanyol,0.8,1.0,Athletic Club,26645.0,RCDE Stadium,Guillermo Cuadra,1,1,D
+24.0,Sun,2025-02-16,16:15,Valladolid,0.5,1.1,Sevilla,22123.0,Estadio Municipal José Zorrilla,Javier Alberola,0,4,A
+24.0,Sun,2025-02-16,18:30,Mallorca,1.7,0.8,Las Palmas,18475.0,Estadi Mallorca Son Moix,Miguel Ángel Ortiz Arias,3,1,H
+24.0,Sun,2025-02-16,21:00,Betis,2.3,0.3,Real Sociedad,48758.0,Estadio Benito Villamarín,Jesús Gil,3,0,H
+24.0,Mon,2025-02-17,21:00,Barcelona,2.3,1.0,Rayo Vallecano,45296.0,Estadi Olímpic Lluís Companys,Mario Melero,1,0,H
+25.0,Fri,2025-02-21,21:00,Celta Vigo,1.8,1.2,Osasuna,22005.0,Estadio Abanca Balaídos,Jose Maria Sánchez,1,0,H
+25.0,Sat,2025-02-22,14:00,Alavés,1.8,0.4,Espanyol,17068.0,Estadio de Mendizorroza,Juan Pulido,0,1,A
+25.0,Sat,2025-02-22,16:15,Rayo Vallecano,0.6,0.6,Villarreal,13373.0,Campo de Fútbol de Vallecas,Víctor García,0,1,A
+25.0,Sat,2025-02-22,18:30,Valencia,0.8,1.3,Atlético Madrid,46297.0,Estadio de Mestalla,Mateo Busquets,0,3,A
+25.0,Sat,2025-02-22,20:00,Las Palmas,0.4,1.4,Barcelona,30746.0,Estadio de Gran Canaria,Adrián Cordero,0,2,A
+25.0,Sun,2025-02-23,14:00,Athletic Club,3.8,0.5,Valladolid,47715.0,San Mamés,César Soto,7,1,H
+25.0,Sun,2025-02-23,16:15,Real Madrid,2.2,0.4,Girona,74028.0,Estadio Santiago Bernabéu,Guillermo Cuadra,2,0,H
+25.0,Sun,2025-02-23,18:30,Getafe,1.2,2.0,Betis,13964.0,Coliseum Alfonso Pérez,Javier Alberola,1,2,A
+25.0,Sun,2025-02-23,21:00,Real Sociedad,0.7,0.3,Leganés,22533.0,Reale Arena,Francisco Hernández,3,0,H
+25.0,Mon,2025-02-24,21:00,Sevilla,1.3,2.3,Mallorca,35424.0,Estadio Ramón Sánchez Pizjuán,Alejandro Muñíz,1,1,D
+26.0,Fri,2025-02-28,21:00,Valladolid,1.8,0.2,Las Palmas,16024.0,Estadio Municipal José Zorrilla,Ricardo de Burgos,1,1,D
+26.0,Sat,2025-03-01,14:00,Girona,0.7,1.8,Celta Vigo,11449.0,Estadi Municipal de Montilivi,Miguel Ángel Ortiz Arias,2,2,D
+26.0,Sat,2025-03-01,16:15,Rayo Vallecano,2.8,0.6,Sevilla,11947.0,Campo de Fútbol de Vallecas,Pablo González,1,1,D
+26.0,Sat,2025-03-01,18:30,Betis,2.4,0.9,Real Madrid,55873.0,Estadio Benito Villamarín,Alejandro Hernández,2,1,H
+26.0,Sat,2025-03-01,21:00,Atlético Madrid,2.2,1.1,Athletic Club,63810.0,Riyadh Air Metropolitan Stadium,Jesús Gil,1,0,H
+26.0,Sun,2025-03-02,14:00,Leganés,1.0,0.3,Getafe,10311.0,Estadio Municipal de Butarque,Alejandro Muñíz,1,0,H
+26.0,Sun,2025-03-02,16:15,Barcelona,2.8,0.0,Real Sociedad,46324.0,Estadi Olímpic Lluís Companys,Alejandro Quintero,4,0,H
+26.0,Sun,2025-03-02,18:30,Mallorca,1.1,1.6,Alavés,17702.0,Estadi Mallorca Son Moix,César Soto,1,1,D
+26.0,Sun,2025-03-02,21:00,Osasuna,1.5,1.8,Valencia,19230.0,Estadio El Sadar,Mario Melero,3,3,D
+27.0,Sat,2025-03-08,14:00,Celta Vigo,0.9,1.0,Leganés,17326.0,Estadio Abanca Balaídos,Isidro Díaz de Mera,2,1,H
+27.0,Sat,2025-03-08,16:15,Alavés,1.0,2.8,Villarreal,16582.0,Estadio de Mendizorroza,Miguel Ángel Ortiz Arias,1,0,H
+27.0,Sat,2025-03-08,18:30,Valencia,1.9,0.9,Valladolid,41720.0,Estadio de Mestalla,Juan Pulido,2,1,H
+27.0,Sun,2025-03-09,14:00,Getafe,1.2,0.9,Atlético Madrid,12862.0,Coliseum Alfonso Pérez,Guillermo Cuadra,2,1,H
+27.0,Sun,2025-03-09,16:15,Real Madrid,1.5,1.0,Rayo Vallecano,74170.0,Estadio Santiago Bernabéu,Francisco Hernández,2,1,H
+27.0,Sun,2025-03-09,18:30,Betis,2.3,0.6,Las Palmas,49292.0,Estadio Benito Villamarín,Jose Maria Sánchez,1,0,H
+27.0,Sun,2025-03-09,18:30,Athletic Club,0.7,0.5,Mallorca,48203.0,San Mamés,Alejandro Hernández,1,1,D
+27.0,Sun,2025-03-09,21:00,Real Sociedad,0.7,0.6,Sevilla,25478.0,Reale Arena,Víctor García,0,1,A
+27.0,Mon,2025-03-10,21:00,Espanyol,0.2,1.6,Girona,23997.0,RCDE Stadium,Adrián Cordero,1,1,D
+28.0,Fri,2025-03-14,20:00,Las Palmas,1.8,1.7,Alavés,17566.0,Estadio de Gran Canaria,Mario Melero,2,2,D
+28.0,Sat,2025-03-15,14:00,Valladolid,0.7,1.5,Celta Vigo,17521.0,Estadio Municipal José Zorrilla,Víctor García,0,1,A
+28.0,Sat,2025-03-15,16:15,Mallorca,2.7,0.2,Espanyol,18240.0,Estadi Mallorca Son Moix,Alejandro Quintero,2,1,H
+28.0,Sat,2025-03-15,18:30,Villarreal,1.6,1.1,Real Madrid,20559.0,Estadio de la Cerámica,Jesús Gil,1,2,A
+28.0,Sat,2025-03-15,21:00,Girona,0.9,1.0,Valencia,10262.0,Estadi Municipal de Montilivi,José Luis Munuera,1,1,D
+28.0,Sun,2025-03-16,14:00,Leganés,1.3,2.7,Betis,11691.0,Estadio Municipal de Butarque,César Soto,2,3,A
+28.0,Sun,2025-03-16,16:15,Sevilla,0.5,1.3,Athletic Club,37016.0,Estadio Ramón Sánchez Pizjuán,Juan Pulido,0,1,A
+28.0,Sun,2025-03-16,18:30,Osasuna,1.9,0.5,Getafe,19611.0,Estadio El Sadar,Alejandro Hernández,1,2,A
+28.0,Sun,2025-03-16,18:30,Rayo Vallecano,0.6,0.6,Real Sociedad,12364.0,Campo de Fútbol de Vallecas,Alejandro Muñíz,2,2,D
+28.0,Sun,2025-03-16,21:00,Atlético Madrid,1.4,1.3,Barcelona,67602.0,Riyadh Air Metropolitan Stadium,Ricardo de Burgos,2,4,A
+27.0,Thu,2025-03-27,21:00,Barcelona,3.7,0.4,Osasuna,42319.0,Estadi Olímpic Lluís Companys,Mateo Busquets,3,0,H
+29.0,Sat,2025-03-29,14:00,Real Sociedad,0.7,0.7,Valladolid,28151.0,Reale Arena,Adrián Cordero,2,1,H
+29.0,Sat,2025-03-29,16:15,Espanyol,1.0,0.8,Atlético Madrid,30559.0,RCDE Stadium,Javier Alberola,1,1,D
+29.0,Sat,2025-03-29,18:30,Alavés,1.5,0.6,Rayo Vallecano,18336.0,Estadio de Mendizorroza,José Luis Munuera,0,2,A
+29.0,Sat,2025-03-29,21:00,Real Madrid,2.9,2.4,Leganés,73641.0,Estadio Santiago Bernabéu,Pablo González,3,2,H
+29.0,Sun,2025-03-30,14:00,Getafe,1.0,1.2,Villarreal,11406.0,Coliseum Alfonso Pérez,Isidro Díaz de Mera,1,2,A
+29.0,Sun,2025-03-30,16:15,Barcelona,2.3,0.5,Girona,48258.0,Estadi Olímpic Lluís Companys,Juan Pulido,4,1,H
+29.0,Sun,2025-03-30,18:30,Valencia,0.7,0.6,Mallorca,44082.0,Estadio de Mestalla,Francisco Hernández,1,0,H
+29.0,Sun,2025-03-30,18:30,Athletic Club,0.7,0.4,Osasuna,49671.0,San Mamés,Guillermo Cuadra,0,0,D
+29.0,Sun,2025-03-30,21:00,Betis,1.1,0.7,Sevilla,58538.0,Estadio Benito Villamarín,Mateo Busquets,2,1,H
+29.0,Mon,2025-03-31,21:00,Celta Vigo,1.0,0.3,Las Palmas,18549.0,Estadio Abanca Balaídos,Juan Martínez,1,1,D
+30.0,Fri,2025-04-04,21:00,Rayo Vallecano,0.7,3.4,Espanyol,11905.0,Campo de Fútbol de Vallecas,Alejandro Hernández,0,4,A
+30.0,Sat,2025-04-05,14:00,Girona,1.4,0.8,Alavés,11384.0,Estadi Municipal de Montilivi,Alejandro Muñíz,0,1,A
+30.0,Sat,2025-04-05,16:15,Real Madrid,3.4,0.8,Valencia,75382.0,Estadio Santiago Bernabéu,Guillermo Cuadra,1,2,A
+30.0,Sat,2025-04-05,18:30,Mallorca,0.5,0.8,Celta Vigo,18291.0,Estadi Mallorca Son Moix,Ricardo de Burgos,1,2,A
+30.0,Sat,2025-04-05,21:00,Barcelona,1.4,0.3,Betis,47043.0,Estadi Olímpic Lluís Companys,Jesús Gil,1,1,D
+30.0,Sun,2025-04-06,13:00,Las Palmas,2.0,2.4,Real Sociedad,22616.0,Estadio de Gran Canaria,Miguel Ángel Ortiz Arias,1,3,A
+30.0,Sun,2025-04-06,16:15,Sevilla,0.9,1.3,Atlético Madrid,34505.0,Estadio Ramón Sánchez Pizjuán,César Soto,1,2,A
+30.0,Sun,2025-04-06,18:30,Valladolid,0.6,1.9,Getafe,17737.0,Estadio Municipal José Zorrilla,Alejandro Quintero,0,4,A
+30.0,Sun,2025-04-06,21:00,Villarreal,2.1,0.8,Athletic Club,19158.0,Estadio de la Cerámica,Mario Melero,0,0,D
+30.0,Mon,2025-04-07,21:00,Leganés,1.7,2.2,Osasuna,10755.0,Estadio Municipal de Butarque,Víctor García,1,1,D
+31.0,Fri,2025-04-11,21:00,Valencia,1.3,0.8,Sevilla,45618.0,Estadio de Mestalla,Jose Maria Sánchez,1,0,H
+31.0,Sat,2025-04-12,14:00,Real Sociedad,0.7,0.7,Mallorca,29181.0,Reale Arena,José Luis Munuera,0,2,A
+31.0,Sat,2025-04-12,16:15,Getafe,1.4,1.3,Las Palmas,8370.0,Coliseum Alfonso Pérez,Javier Alberola,1,3,A
+31.0,Sat,2025-04-12,18:30,Celta Vigo,0.9,1.2,Espanyol,19801.0,Estadio Abanca Balaídos,Mateo Busquets,0,2,A
+31.0,Sat,2025-04-12,21:00,Leganés,0.7,1.4,Barcelona,12530.0,Estadio Municipal de Butarque,Francisco Hernández,0,1,A
+31.0,Sun,2025-04-13,14:00,Osasuna,1.7,0.9,Girona,20260.0,Estadio El Sadar,Pablo González,2,1,H
+31.0,Sun,2025-04-13,16:15,Alavés,0.6,0.9,Real Madrid,19438.0,Estadio de Mendizorroza,César Soto,0,1,A
+31.0,Sun,2025-04-13,18:30,Betis,1.4,1.3,Villarreal,54778.0,Estadio Benito Villamarín,Juan Pulido,1,2,A
+31.0,Sun,2025-04-13,21:00,Athletic Club,1.6,1.6,Rayo Vallecano,47584.0,San Mamés,Adrián Cordero,3,1,H
+31.0,Mon,2025-04-14,21:00,Atlético Madrid,3.4,1.2,Valladolid,55936.0,Riyadh Air Metropolitan Stadium,Isidro Díaz de Mera,4,2,H
+32.0,Fri,2025-04-18,21:00,Espanyol,0.4,0.4,Getafe,25003.0,RCDE Stadium,Ricardo de Burgos,1,0,H
+32.0,Sat,2025-04-19,14:00,Rayo Vallecano,0.5,2.0,Valencia,11308.0,Campo de Fútbol de Vallecas,Alejandro Quintero,1,1,D
+32.0,Sat,2025-04-19,16:15,Barcelona,2.9,2.1,Celta Vigo,48569.0,Estadi Olímpic Lluís Companys,Mario Melero,4,3,H
+32.0,Sat,2025-04-19,18:30,Mallorca,0.9,0.9,Leganés,17404.0,Estadi Mallorca Son Moix,Alejandro Muñíz,0,0,D
+32.0,Sat,2025-04-19,20:00,Las Palmas,0.6,0.8,Atlético Madrid,27154.0,Estadio de Gran Canaria,Víctor García,1,0,H
+32.0,Sun,2025-04-20,14:00,Valladolid,1.9,2.3,Osasuna,12230.0,Estadio Municipal José Zorrilla,Jesús Gil,2,3,A
+32.0,Sun,2025-04-20,16:15,Villarreal,1.9,1.7,Real Sociedad,17620.0,Estadio de la Cerámica,Guillermo Cuadra,2,2,D
+32.0,Sun,2025-04-20,18:30,Sevilla,1.6,1.0,Alavés,36436.0,Estadio Ramón Sánchez Pizjuán,Miguel Ángel Ortiz Arias,1,1,D
+32.0,Sun,2025-04-20,21:00,Real Madrid,1.5,0.2,Athletic Club,72535.0,Estadio Santiago Bernabéu,Juan Martínez,1,0,H
+32.0,Mon,2025-04-21,21:00,Girona,1.1,1.7,Betis,12535.0,Estadi Municipal de Montilivi,Alejandro Hernández,1,3,A
+33.0,Tue,2025-04-22,19:00,Valencia,0.9,0.3,Espanyol,42448.0,Estadio de Mestalla,Juan Pulido,1,1,D
+33.0,Tue,2025-04-22,21:30,Barcelona,3.3,0.3,Mallorca,45602.0,Estadi Olímpic Lluís Companys,Miguel Ángel Ortiz Arias,1,0,H
+33.0,Wed,2025-04-23,19:00,Celta Vigo,2.7,0.4,Villarreal,19324.0,Estadio Abanca Balaídos,Javier Alberola,3,0,H
+33.0,Wed,2025-04-23,19:00,Athletic Club,2.1,1.0,Las Palmas,47724.0,San Mamés,Isidro Díaz de Mera,1,0,H
+33.0,Wed,2025-04-23,21:30,Alavés,0.6,0.8,Real Sociedad,17049.0,Estadio de Mendizorroza,Mateo Busquets,1,0,H
+33.0,Wed,2025-04-23,21:30,Getafe,2.3,1.5,Real Madrid,15184.0,Coliseum Alfonso Pérez,Jose Maria Sánchez,0,1,A
+33.0,Thu,2025-04-24,19:00,Osasuna,0.3,1.1,Sevilla,20555.0,Estadio El Sadar,Adrián Cordero,1,0,H
+33.0,Thu,2025-04-24,19:00,Leganés,0.3,0.5,Girona,11595.0,Estadio Municipal de Butarque,José Luis Munuera,1,1,D
+33.0,Thu,2025-04-24,21:30,Atlético Madrid,2.3,0.7,Rayo Vallecano,49410.0,Riyadh Air Metropolitan Stadium,Pablo González,3,0,H
+33.0,Thu,2025-04-24,21:30,Betis,1.9,0.9,Valladolid,46458.0,Estadio Benito Villamarín,Francisco Hernández,5,1,H
+26.0,Sun,2025-04-27,16:15,Villarreal,1.4,1.0,Espanyol,17236.0,Estadio de la Cerámica,José Luis Munuera,1,0,H
+34.0,Fri,2025-05-02,21:00,Rayo Vallecano,1.2,0.9,Getafe,11648.0,Campo de Fútbol de Vallecas,Víctor García,1,0,H
+34.0,Sat,2025-05-03,14:00,Alavés,0.5,0.5,Atlético Madrid,18117.0,Estadio de Mendizorroza,Juan Martínez,0,0,D
+34.0,Sat,2025-05-03,16:15,Villarreal,2.2,1.2,Osasuna,17147.0,Estadio de la Cerámica,Alejandro Quintero,4,2,H
+34.0,Sat,2025-05-03,17:30,Las Palmas,1.7,1.4,Valencia,24942.0,Estadio de Gran Canaria,Ricardo de Burgos,2,3,A
+34.0,Sat,2025-05-03,21:00,Valladolid,0.6,1.9,Barcelona,23967.0,Estadio Municipal José Zorrilla,Alejandro Muñíz,1,2,A
+34.0,Sun,2025-05-04,14:00,Real Madrid,2.2,1.8,Celta Vigo,67661.0,Estadio Santiago Bernabéu,Jesús Gil,3,2,H
+34.0,Sun,2025-05-04,16:15,Sevilla,2.7,0.6,Leganés,35495.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,2,2,D
+34.0,Sun,2025-05-04,18:30,Espanyol,1.2,1.1,Betis,29126.0,RCDE Stadium,Guillermo Cuadra,1,2,A
+34.0,Sun,2025-05-04,21:00,Real Sociedad,0.9,0.2,Athletic Club,36058.0,Reale Arena,César Soto,0,0,D
+34.0,Mon,2025-05-05,21:00,Girona,1.3,0.5,Mallorca,7721.0,Estadi Municipal de Montilivi,Mario Melero,1,0,H
+35.0,Fri,2025-05-09,20:00,Las Palmas,0.7,1.2,Rayo Vallecano,20577.0,Estadio de Gran Canaria,Francisco Hernández,0,1,A
+35.0,Sat,2025-05-10,14:00,Valencia,2.7,0.5,Getafe,43357.0,Estadio de Mestalla,Adrián Cordero,3,0,H
+35.0,Sat,2025-05-10,16:15,Celta Vigo,0.9,2.3,Sevilla,20281.0,Estadio Abanca Balaídos,Pablo González,3,2,H
+35.0,Sat,2025-05-10,18:30,Mallorca,1.0,1.8,Valladolid,16018.0,Estadi Mallorca Son Moix,Juan Pulido,2,1,H
+35.0,Sat,2025-05-10,18:30,Girona,0.2,2.0,Villarreal,12011.0,Estadi Municipal de Montilivi,Isidro Díaz de Mera,0,1,A
+35.0,Sat,2025-05-10,21:00,Atlético Madrid,1.4,0.6,Real Sociedad,59612.0,Riyadh Air Metropolitan Stadium,Jose Maria Sánchez,4,0,H
+35.0,Sun,2025-05-11,14:00,Leganés,1.5,1.2,Espanyol,11669.0,Estadio Municipal de Butarque,Javier Alberola,3,2,H
+35.0,Sun,2025-05-11,16:15,Barcelona,4.2,2.7,Real Madrid,50319.0,Estadi Olímpic Lluís Companys,Alejandro Hernández,4,3,H
+35.0,Sun,2025-05-11,18:30,Athletic Club,1.3,0.4,Alavés,47947.0,San Mamés,José Luis Munuera,1,0,H
+35.0,Sun,2025-05-11,21:00,Betis,0.4,2.0,Osasuna,52839.0,Estadio Benito Villamarín,Miguel Ángel Ortiz Arias,1,1,D
+36.0,Tue,2025-05-13,19:00,Valladolid,0.9,1.4,Girona,12664.0,Estadio Municipal José Zorrilla,Alejandro Quintero,0,1,A
+36.0,Tue,2025-05-13,20:00,Real Sociedad,1.7,1.1,Celta Vigo,25124.0,Reale Arena,Víctor García,0,1,A
+36.0,Tue,2025-05-13,21:30,Sevilla,1.3,0.5,Las Palmas,37078.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,1,0,H
+36.0,Wed,2025-05-14,19:00,Alavés,1.8,0.8,Valencia,17626.0,Estadio de Mendizorroza,Jesús Gil,1,0,H
+36.0,Wed,2025-05-14,19:00,Villarreal,1.6,1.1,Leganés,17067.0,Estadio de la Cerámica,Ricardo de Burgos,3,0,H
+36.0,Wed,2025-05-14,21:30,Real Madrid,2.6,0.5,Mallorca,60753.0,Estadio Santiago Bernabéu,Javier Alberola,2,1,H
+36.0,Thu,2025-05-15,19:00,Rayo Vallecano,1.2,1.2,Betis,13480.0,Campo de Fútbol de Vallecas,Pablo González,2,2,D
+36.0,Thu,2025-05-15,19:00,Osasuna,0.6,1.4,Atlético Madrid,21171.0,Estadio El Sadar,Mario Melero,2,0,H
+36.0,Thu,2025-05-15,21:30,Getafe,0.4,1.2,Athletic Club,11564.0,Coliseum Alfonso Pérez,Guillermo Cuadra,0,2,A
+36.0,Thu,2025-05-15,21:30,Espanyol,1.4,0.6,Barcelona,34283.0,RCDE Stadium,César Soto,0,2,A
+37.0,Sun,2025-05-18,18:00,Las Palmas,0.6,1.5,Leganés,11279.0,Estadio de Gran Canaria,Jose Maria Sánchez,0,1,A
+37.0,Sun,2025-05-18,19:00,Mallorca,0.4,1.6,Getafe,18124.0,Estadi Mallorca Son Moix,Alejandro Hernández,1,2,A
+37.0,Sun,2025-05-18,19:00,Valencia,0.4,1.1,Athletic Club,45641.0,Estadio de Mestalla,Alejandro Muñíz,0,1,A
+37.0,Sun,2025-05-18,19:00,Atlético Madrid,4.8,0.9,Betis,62269.0,Riyadh Air Metropolitan Stadium,Adrián Cordero,4,1,H
+37.0,Sun,2025-05-18,19:00,Osasuna,1.2,0.7,Espanyol,21131.0,Estadio El Sadar,Francisco Hernández,2,0,H
+37.0,Sun,2025-05-18,19:00,Barcelona,1.4,1.8,Villarreal,49558.0,Estadi Olímpic Lluís Companys,José Luis Munuera,2,3,A
+37.0,Sun,2025-05-18,19:00,Valladolid,1.6,1.4,Alavés,14506.0,Estadio Municipal José Zorrilla,Isidro Díaz de Mera,0,1,A
+37.0,Sun,2025-05-18,19:00,Real Sociedad,2.0,2.3,Girona,28315.0,Reale Arena,Miguel Ángel Ortiz Arias,3,2,H
+37.0,Sun,2025-05-18,19:00,Sevilla,0.5,2.0,Real Madrid,32500.0,Estadio Ramón Sánchez Pizjuán,Mateo Busquets,0,2,A
+37.0,Sun,2025-05-18,19:00,Celta Vigo,2.4,1.2,Rayo Vallecano,21482.0,Estadio Abanca Balaídos,Juan Pulido,1,2,A
+38.0,Fri,2025-05-23,21:00,Betis,0.9,0.7,Valencia,51141.0,Estadio Benito Villamarín,Víctor García,1,1,D
+38.0,Sat,2025-05-24,16:15,Real Madrid,2.6,0.8,Real Sociedad,73186.0,Estadio Santiago Bernabéu,Mario Melero,2,0,H
+38.0,Sat,2025-05-24,18:30,Leganés,2.1,0.4,Valladolid,11523.0,Estadio Municipal de Butarque,César Soto,3,0,H
+38.0,Sat,2025-05-24,18:30,Espanyol,2.0,0.5,Las Palmas,32511.0,RCDE Stadium,Alejandro Muñíz,2,0,H
+38.0,Sat,2025-05-24,21:00,Rayo Vallecano,2.2,0.6,Mallorca,13854.0,Campo de Fútbol de Vallecas,Ricardo de Burgos,0,0,D
+38.0,Sat,2025-05-24,21:00,Alavés,2.0,1.6,Osasuna,19274.0,Estadio de Mendizorroza,Guillermo Cuadra,1,1,D
+38.0,Sat,2025-05-24,21:00,Getafe,0.4,1.5,Celta Vigo,12862.0,Coliseum Alfonso Pérez,Juan Martínez,1,2,A
+38.0,Sun,2025-05-25,14:00,Girona,0.0,2.7,Atlético Madrid,11546.0,Estadi Municipal de Montilivi,Jesús Gil,0,4,A
+38.0,Sun,2025-05-25,16:15,Villarreal,1.1,1.5,Sevilla,17758.0,Estadio de la Cerámica,Javier Alberola,4,2,H
+38.0,Sun,2025-05-25,21:00,Athletic Club,1.2,3.5,Barcelona,50231.0,San Mamés,Pablo González,0,3,A
